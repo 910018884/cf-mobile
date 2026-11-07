@@ -45,6 +45,9 @@ C4 携带者阵亡会掉包，队友可捡回继续埋。
 2. 打开那次 run → 底部 **Artifacts** → 下载 `cf-mobile-apk`
 3. 解压得到 `CFMobile-debug.apk`，传到手机安装，允许「安装未知来源应用」
 
+Actions 上跑一次约 30 秒（runner 自带 Android SDK 缓存）。签名是构建时现生成的调试证书，
+`CN=DSH`，换一次构建就要先卸载旧包再装新包。
+
 ## 本地编译（有 Android SDK 时）
 
 ```bash
@@ -58,6 +61,16 @@ bash build.sh                 # 产物 out/CFMobile-debug.apk
 ```bash
 PLAT=/tmp/android30.jar D8=/tmp/d8.jar bash build-local.sh
 ```
+
+## 无头自测（不用装到手机）
+
+```bash
+PLAT=/tmp/android30.jar bash tools/sim.sh
+```
+
+`tools/sim/com/dsh/cf/Sim.java` 用流场寻路当「机器人玩家」打满一局团队竞技和一场爆破，
+`Sim2.java` 专测炸弹状态机：玩家埋包 2.6s → C4 引爆、AI 进攻方自己埋包 → 玩家拆包 4.5s 成功。
+`CFMap` 自带 JVM 自检，会打印地图并确认 1239 个空格全部可达、A/B 点连通。
 
 ## 代码结构
 

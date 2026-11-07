@@ -1,1 +1,73 @@
-IyDmjozkuIrngavnur8gwrcgQ0YgTW9iaWxlIOWkjeWIuwoK5qiq5bGPIDV2NSDkv6/op4bop5LmnqrmiJjvvIzljp/nlJ8gKipKYXZhICsgQ2FudmFz77yIU3VyZmFjZVZpZXfvvIkqKu+8jOmbtuesrOS4ieaWueS+nei1luOAgSoq6Zu25Zu+54mHL+mfs+mikei1hOa6kCoq77yaCuaymeWcsOOAgeegluWimeOAgeacqOeuseOAgeWjq+WFteeyvueBteWFqOmDqOeUsSBgQ0ZSZXNgIOeoi+W6j+WMlueUu+aIkOWDj+e0oOWbvu+8jOaequWjsC/niIblpLQv5Z+L5YyFL+iDnOi0n+aPkOekuueUsQpgQ0ZBdWRpb2Ag5Zyo5YaF5a2Y6YeM5ZCI5oiQIFdBViDlkI7loZ7ov5sgYFNvdW5kUG9vbGDjgIIKCuS4jeeUqCBHcmFkbGUg4oCU4oCUIGBidWlsZC5zaGAg55u05o6l6LCDIGBhYXB0MiDihpIgamF2YWMg4oaSIGQ4IOKGkiB6aXBhbGlnbiDihpIgYXBrc2lnbmVyYO+8jArlnKggR2l0SHViIEFjdGlvbnMg55qE5LqR56uvIHJ1bm5lciDkuIrnvJbor5Hlh7rlj6/lronoo4XnmoQgZGVidWcgQVBL44CCCgojIyDmqKHlvI8KCnwg5qih5byPIHwg6KeE5YiZIHwKfCAtLS0gfCAtLS0gfAp8IOWboumYn+ernuaKgCB8IDV2Ne+8jOWFiOadgCAzMCDkurrvvIw0IOWIhumSn+aXtumZkO+8jOatu+S6hiAzIOenkumHjeeUnyB8Cnwg54iG56C05qih5byPIHwgNXY1IOS6lOWxgOS4ieiDnO+8mua9nOS8j+iAheaKvCBDNCDljrsgQS9CIOeCueWfi+WMhe+8jOS/neWNq+iAheaLhuWMheaIluatvOeBre+8m+WPjOaWueavj+WxgOaNoui+uSB8CgrlnLDlm77mmK/jgIzmspnmvKDngbDjgI3lkbPpgZPnmoQgNDTDlzM2IOe9keagvO+8muS4remXqOOAgUIg5rSe44CBQSDljIXngrnjgIFCIOWMheeCueOAgeS4pOS+p+WfuuWcsO+8jApgQ0ZNYXAubWFpbigpYCDlj6/nm7TmjqXlnKggSlZNIOmHjOi3kei/numAmuaAp+iHquajgO+8iOW9k+WJje+8mjEyMzkg5Liq56m65qC85YWo6YOo6L+e6YCa77yJ44CCCgojIyDmk43kvZwKCnwg5pON5L2cIHwg5pWI5p6cIHwKfCAtLS0gfCAtLS0gfAp8IOW3puWNiuWxj+aMieS9j+aLluWKqCB8IOi1sOS9je+8iOiZmuaLn+aRh+adhu+8jOadvuaJi+WNs+WBnO+8iSB8Cnwg5Y+z5Y2K5bGP5oyJ5L2P5ouW5YqoIHwg556E5YeGICsg6Ieq5Yqo5byA54Gr77yI54uZ5Ye7L+aymem5sOS4uuWNiuiHquWKqO+8jOmcgOmHjeaWsOaOqOaRh+adhu+8iSB8Cnwg5Y+z5LiLIGDlvLlgIHwg5o2i5by577yI5omT56m66Ieq5Yqo5o2i77yJIHwKfCDlj7PkuIsgYOeUqGAgfCDln4vljIUgLyDmi4bljIXvvIwqKuaMieS9jyoq5LiN5pS+77yM6L+b5bqm5p2h6LWw5ruh55Sf5pWIIHwKfCDlt6bkuIsgYOaeqmAgfCBBSzQ3IOKHhCDmspnpubAgfAoKIyMg5p6q5LiO5pWw5YC8CgpBSzQ377yIMzAvOTDvvIwzNCDkvKTvvInjgIFNNEEx77yIMzAvOTDvvIwyNyDkvKTvvIzmm7TnqLPvvInjgIFBV03vvIgxMCDlvLnvvIwxMjgg5Lyk77yMMTQg56eS56m65oqV6ZmQ5pe277yJ44CBCuaymem5sO+8iDcvMzXvvIw2MiDkvKTvvInjgIHlhpvnlKjliLrliIDvvIg3OCDkvKTvvInjgILniIblpLTmjInmnqrnp40gMS4zNe+9njIuNiDlgI3kvKTlrrPvvIzni5nlh7vniIblpLTln7rmnKzkuIDmnqrluKbotbDjgIIK6KGl57uZ77ya5Yy755aX5YyFICs0NeOAgeW8ueiNr+euseihpea7oeOAgUFXTSDnqbrmipXjgILov57mnYAgMi8zLzUg5pyJ44CM5Y+M5p2AIC8g5LiJ6L+e5p2AIC8gQUNF44CN5o+Q56S644CCCgojIyBBSQoKQm90IOeUqCBCRlMg5rWB5Zy677yIYENGTWFwLmZsb3dg77yJ6LWw5L2N77ya6L+b5pS75pa55oq85YyF54K544CB6Ziy5a6I5pa55a6I54K544CBQzQg5Z+L5aW95ZCO5pyA6L+R55qE5L+d5Y2r6ICF5Y675ouG5YyF77ybCuaOpeaVjOaXtuWFiOWBmuinhue6v+WIpOWumu+8iGBDRk1hcC5sb3Ng77yJ5YaN54K55bCE77yM5bim5o+Q5YmN6YeP44CB5pWj5biD44CB54K55bCE6IqC5aWP5LiO5L6n6Lqr6LWw5L2N44CCCkM0IOaQuuW4puiAhemYteS6oeS8muaOieWMhe+8jOmYn+WPi+WPr+aNoeWbnue7p+e7reWfi+OAggoKIyMg5ou/IEFQSwoKMS4g5o6o5YiwIEdpdEh1YiDlkI7oh6rliqjop6blj5EgQWN0aW9uc++8iOaIluaJi+WKqCBXb3JrZmxvdyBkaXNwYXRjaO+8iQoyLiDmiZPlvIDpgqPmrKEgcnVuIOKGkiDlupXpg6ggKipBcnRpZmFjdHMqKiDihpIg5LiL6L29IGBjZi1tb2JpbGUtYXBrYAozLiDop6PljovlvpfliLAgYENGTW9iaWxlLWRlYnVnLmFwa2DvvIzkvKDliLDmiYvmnLrlronoo4XvvIzlhYHorrjjgIzlronoo4XmnKrnn6XmnaXmupDlupTnlKjjgI0KCiMjIOacrOWcsOe8luivke+8iOaciSBBbmRyb2lkIFNESyDml7bvvIkKCmBgYGJhc2gKZXhwb3J0IEFORFJPSURfSE9NRT0vcGF0aC90by9hbmRyb2lkLXNkawpiYXNoIGJ1aWxkLnNoICAgICAgICAgICAgICAgICAjIOS6p+eJqSBvdXQvQ0ZNb2JpbGUtZGVidWcuYXBrCmBgYAoK5ZyoIGFhcmNoNjQgTGludXjvvIjmr5TlpoIgRFNIIOaJi+acuuerr++8ieS4iuWPr+S7peeUqCBgYnVpbGQtbG9jYWwuc2hg77yMCuWug+eUqOWPkeihjOeJiOiHquW4pueahCBgYWFwdDIgLyB6aXBhbGlnbiAvIGFwa3NpZ25lcmAg5Yqg5LiA5LiqIGBkOC5qYXJg77yaCgpgYGBiYXNoClBMQVQ9L3RtcC9hbmRyb2lkMzAuamFyIEQ4PS90bXAvZDguamFyIGJhc2ggYnVpbGQtbG9jYWwuc2gKYGBgCgojIyDku6PnoIHnu5PmnoQKCnwg5paH5Lu2IHwg5L2c55SoIHwKfCAtLS0gfCAtLS0gfAp8IGBhcHAvc3JjL2NvbS9kc2gvY2YvQ0ZNYXAuamF2YWAgfCDlnLDlm77nvZHmoLzjgIHnorDmkp7jgIHop4bnur/jgIFCRlMg5rWB5Zy677yb5bimIEpWTSDoh6rmo4AgfAp8IGBhcHAvc3JjL2NvbS9kc2gvY2YvQ0ZSZXMuamF2YWAgfCDnqIvluo/ljJbnlJ/miJDlnLDlvaIv5aOr5YW1L+WMheeCuS9DNCDlg4/ntKDlm74gfAp8IGBhcHAvc3JjL2NvbS9kc2gvY2YvQ0ZXZWFwb24uamF2YWAgfCDmnqrmorDmlbDlgLzooaggfAp8IGBhcHAvc3JjL2NvbS9kc2gvY2YvQ0ZBdWRpby5qYXZhYCB8IOWQiOaIkOmfs+aViOW5tueBjOi/myBTb3VuZFBvb2wgfAp8IGBhcHAvc3JjL2NvbS9kc2gvY2YvQ0ZHYW1lLmphdmFgIHwg6Zif5LyN44CB5p6q5by544CBQUnjgIHlm57lkIjkuI7niIbnoLTmtYHnqIvjgIHnu5/orqEgfAp8IGBhcHAvc3JjL2NvbS9kc2gvY2YvQ0ZBY3QuamF2YWAgfCBTdXJmYWNlVmlldyDmuLLmn5PjgIHlj4zmkYfmnYbop6bmjqfjgIFIVUTjgIHoj5zljZXkuI7nu5PnrpcgfAoKbWluU2RrIDIxIC8gdGFyZ2V0U2RrIDM077yM57qvIEFPU1AgQVBJ77yMQW5kcm9pZCBTdHVkaW8g5LiN5Y+C5LiO44CCCg==
+# 掌上火线 · CF Mobile 复刻
+
+横屏 5v5 俯视角枪战，原生 **Java + Canvas（SurfaceView）**，零第三方依赖、**零图片/音频资源**：
+沙地、砖墙、木箱、士兵精灵全部由 `CFRes` 程序化画成像素图，枪声/爆头/埋包/胜负提示由
+`CFAudio` 在内存里合成 WAV 后塞进 `SoundPool`。
+
+不用 Gradle —— `build.sh` 直接调 `aapt2 → javac → d8 → zipalign → apksigner`，
+在 GitHub Actions 的云端 runner 上编译出可安装的 debug APK。
+
+## 模式
+
+| 模式 | 规则 |
+| --- | --- |
+| 团队竞技 | 5v5，先杀 30 人，4 分钟时限，死了 3 秒重生 |
+| 爆破模式 | 5v5 五局三胜：潜伏者押 C4 去 A/B 点埋包，保卫者拆包或歼灭；双方每局换边 |
+
+地图是「沙漠灰」味道的 44×36 网格：中门、B 洞、A 包点、B 包点、两侧基地，
+`CFMap.main()` 可直接在 JVM 里跑连通性自检（当前：1239 个空格全部连通）。
+
+## 操作
+
+| 操作 | 效果 |
+| --- | --- |
+| 左半屏按住拖动 | 走位（虚拟摇杆，松手即停） |
+| 右半屏按住拖动 | 瞄准 + 自动开火（狙击/沙鹰为半自动，需重新推摇杆） |
+| 右下 `弹` | 换弹（打空自动换） |
+| 右下 `用` | 埋包 / 拆包，**按住**不放，进度条走满生效 |
+| 左下 `枪` | AK47 ⇄ 沙鹰 |
+
+## 枪与数值
+
+AK47（30/90，34 伤）、M4A1（30/90，27 伤，更稳）、AWM（10 弹，128 伤，14 秒空投限时）、
+沙鹰（7/35，62 伤）、军用刺刀（78 伤）。爆头按枪种 1.35～2.6 倍伤害，狙击爆头基本一枪带走。
+补给：医疗包 +45、弹药箱补满、AWM 空投。连杀 2/3/5 有「双杀 / 三连杀 / ACE」提示。
+
+## AI
+
+Bot 用 BFS 流场（`CFMap.flow`）走位：进攻方押包点、防守方守点、C4 埋好后最近的保卫者去拆包；
+接敌时先做视线判定（`CFMap.los`）再点射，带提前量、散布、点射节奏与侧身走位。
+C4 携带者阵亡会掉包，队友可捡回继续埋。
+
+## 拿 APK
+
+1. 推到 GitHub 后自动触发 Actions（或手动 Workflow dispatch）
+2. 打开那次 run → 底部 **Artifacts** → 下载 `cf-mobile-apk`
+3. 解压得到 `CFMobile-debug.apk`，传到手机安装，允许「安装未知来源应用」
+
+## 本地编译（有 Android SDK 时）
+
+```bash
+export ANDROID_HOME=/path/to/android-sdk
+bash build.sh                 # 产物 out/CFMobile-debug.apk
+```
+
+在 aarch64 Linux（比如 DSH 手机端）上可以用 `build-local.sh`，
+它用发行版自带的 `aapt2 / zipalign / apksigner` 加一个 `d8.jar`：
+
+```bash
+PLAT=/tmp/android30.jar D8=/tmp/d8.jar bash build-local.sh
+```
+
+## 代码结构
+
+| 文件 | 作用 |
+| --- | --- |
+| `app/src/com/dsh/cf/CFMap.java` | 地图网格、碰撞、视线、BFS 流场；带 JVM 自检 |
+| `app/src/com/dsh/cf/CFRes.java` | 程序化生成地形/士兵/包点/C4 像素图 |
+| `app/src/com/dsh/cf/CFWeapon.java` | 枪械数值表 |
+| `app/src/com/dsh/cf/CFAudio.java` | 合成音效并灌进 SoundPool |
+| `app/src/com/dsh/cf/CFGame.java` | 队伍、枪弹、AI、回合与爆破流程、统计 |
+| `app/src/com/dsh/cf/CFAct.java` | SurfaceView 渲染、双摇杆触控、HUD、菜单与结算 |
+
+minSdk 21 / targetSdk 34，纯 AOSP API，Android Studio 不参与。

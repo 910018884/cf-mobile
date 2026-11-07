@@ -1,1 +1,94 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIOacrOWcsCBhYXJjaDY0IOaehOW7uu+8mkRlYmlhbiDnmoQgYWFwdDIvemlwYWxpZ24vYXBrc2lnbmVyICsgYnVpbGQtdG9vbHMg6YeM55qEIGQ4LmphcgpzZXQgLWV1byBwaXBlZmFpbApjZCAiJChkaXJuYW1lICIkMCIpIgoKZXhwb3J0IEpBVkFfSE9NRT0iJHtKQVZBX0hPTUU6LS91c3IvbGliL2p2bS9qYXZhLTE3LW9wZW5qZGstYXJtNjR9IgpleHBvcnQgUEFUSD0iJEpBVkFfSE9NRS9iaW46JFBBVEgiCgojIERlYmlhbiDnmoQgYWFwdDIgMi4xOSDor7vkuI3kuoYgQVBJIDM0IOeahCBhbmRyb2lkLmphcu+8iFJFU19UQUJMRSBlbnRyeSBvZmZzZXRzIG92ZXJsYXDvvInvvIwKIyDmiYDku6Xpu5jorqTnlKggQVBJIDMwIOeahOW5s+WPsOWMhe+8m+mcgOimgeaXtueUqCBQTEFUPS4uLiDopobnm5bjgIIKUExBVD0iJHtQTEFUOi19IgppZiBbIC16ICIkUExBVCIgXTsgdGhlbgogIGZvciBjIGluIC90bXAvYW5kcm9pZDMwLmphciAvdG1wL2FuZHJvaWQtMzAvYW5kcm9pZC5qYXIgL3RtcC9hbmRyb2lkLmphcjsgZG8KICAgIFsgLWYgIiRjIiBdICYmIFBMQVQ9IiRjIiAmJiBicmVhawogIGRvbmUKZmkKUExBVD0iJHtQTEFUOi0vdG1wL2FuZHJvaWQuamFyfSIKRDg9IiR7RDg6LS90bXAvZDguamFyfSIKT1VUPW91dC9sb2NhbApSRVM9IiRPVVQvcmVzLnppcCIKR0VOPSIkT1VUL2dlbiIKT0JKPSIkT1VUL29iaiIKREVYPSIkT1VUL2RleCIKQVBLPSIkT1VUL0NGTW9iaWxlLWRlYnVnLmFwayIKClsgLWYgIiRQTEFUIiBdIHx8IHsgZWNobyAi57y65bmz5Y+wIGphcjogJFBMQVQiOyBleGl0IDE7IH0KWyAtZiAiJEQ4IiBdIHx8IHsgZWNobyAi57y6IGQ4OiAkRDgiOyBleGl0IDE7IH0Kcm0gLXJmICIkT1VUIjsgbWtkaXIgLXAgIiRHRU4iICIkT0JKIiAiJERFWCIgIiRPVVQvYXBrIgoKZWNobyAiPT0gYWFwdDIgY29tcGlsZSA9PSIKYWFwdDIgY29tcGlsZSAtLWRpciBhcHAvcmVzIC1vICIkUkVTIgoKZWNobyAiPT0gYWFwdDIgbGluayA9PSIKYWFwdDIgbGluayAtSSAiJFBMQVQiIFwKICAtLW1hbmlmZXN0IGFwcC9BbmRyb2lkTWFuaWZlc3QueG1sIFwKICAtLW1pbi1zZGstdmVyc2lvbiAyMSAtLXRhcmdldC1zZGstdmVyc2lvbiAzNCBcCiAgLS12ZXJzaW9uLWNvZGUgMSAtLXZlcnNpb24tbmFtZSAxLjAgXAogIC0tYXV0by1hZGQtb3ZlcmxheSBcCiAgLS1qYXZhICIkR0VOIiBcCiAgLW8gIiRPVVQvYmFzZS5hcGsiIFwKICAiJFJFUyIKCmVjaG8gIj09IGphdmFjID09IgpmaW5kIGFwcC9zcmMgIiRHRU4iIC1uYW1lICcqLmphdmEnID4gIiRPVVQvc3Jjcy50eHQiCnhhcmdzIC1hICIkT1VUL3NyY3MudHh0IiBqYXZhYyAtbm93YXJuIC1lbmNvZGluZyBVVEYtOCBcCiAgLXNvdXJjZSAxLjggLXRhcmdldCAxLjggLWJvb3RjbGFzc3BhdGggIiRQTEFUIiAtZCAiJE9CSiIgMj4mMSB8IGdyZXAgLXYgJ2Jvb3RzdHJhcCBjbGFzcyBwYXRoJyB8fCB0cnVlCmZpbmQgIiRPQkoiIC1uYW1lICcqLmNsYXNzJyA+ICIkT1VUL2NsYXNzZXMudHh0IgplY2hvICIgIGNsYXNzZXM6ICQod2MgLWwgPCAiJE9VVC9jbGFzc2VzLnR4dCIpIgoKZWNobyAiPT0gZDggPT0iCm1hcGZpbGUgLXQgQ0xTIDwgIiRPVVQvY2xhc3Nlcy50eHQiCmphdmEgLWNwICIkRDgiIGNvbS5hbmRyb2lkLnRvb2xzLnI4LkQ4IFwKICAtLWxpYiAiJFBMQVQiIC0tbWluLWFwaSAyMSAtLW91dHB1dCAiJERFWCIgLS1yZWxlYXNlICIke0NMU1tAXX0iCmxzIC1sYSAiJERFWC9jbGFzc2VzLmRleCIgfCBhd2sgJ3twcmludCAiICBjbGFzc2VzLmRleCIsICQ1LCAiYnl0ZXMifScKCmVjaG8gIj09IOazqOWFpSBkZXggPT0iCnB5dGhvbjMgLSAiJE9VVC9iYXNlLmFwayIgIiRERVgvY2xhc3Nlcy5kZXgiICIkT1VUL2FsaWduZWQuYXBrIiA8PCdQWScKaW1wb3J0IHN5cywgemlwZmlsZSwgc2h1dGlsCmJhc2UsIGRleCwgdG1wID0gc3lzLmFyZ3ZbMV0sIHN5cy5hcmd2WzJdLCBzeXMuYXJndlszXQp6aW4gPSB6aXBmaWxlLlppcEZpbGUoYmFzZSkKem91dCA9IHppcGZpbGUuWmlwRmlsZSh0bXAsICd3JywgemlwZmlsZS5aSVBfREVGTEFURUQpCnNlZW4gPSBzZXQoKQpmb3IgaXQgaW4gemluLmluZm9saXN0KCk6CiAgICB6b3V0LndyaXRlc3RyKGl0LCB6aW4ucmVhZChpdC5maWxlbmFtZSkpOyBzZWVuLmFkZChpdC5maWxlbmFtZSkKaWYgJ2NsYXNzZXMuZGV4JyBpbiBzZWVuOgogICAgem91dC5jbG9zZSgpOyByYWlzZSBTeXN0ZW1FeGl0KCdjbGFzc2VzLmRleCDlt7LlrZjlnKjkuo4gYmFzZS5hcGsnKQp6b3V0LndyaXRlKGRleCwgJ2NsYXNzZXMuZGV4JywgemlwZmlsZS5aSVBfU1RPUkVEKQp6b3V0LmNsb3NlKCk7IHppbi5jbG9zZSgpCnByaW50KCcgIOadoeebrjonLCBsZW4oc2VlbikgKyAxKQpQWQoKZWNobyAiPT0gemlwYWxpZ24gPT0iCnppcGFsaWduIC1mIDQgIiRPVVQvYWxpZ25lZC5hcGsiICIkT1VUL2ZpbmFsLmFwayIKCmVjaG8gIj09IHNpZ24gPT0iCktTPSIkT1VUL2RlYnVnLmtleXN0b3JlIgpbIC1mICIkS1MiIF0gfHwga2V5dG9vbCAtZ2Vua2V5cGFpciAtdiAta2V5c3RvcmUgIiRLUyIgLWFsaWFzIGFuZHJvaWRkZWJ1Z2tleSBcCiAgLWtleWFsZyBSU0EgLWtleXNpemUgMjA0OCAtdmFsaWRpdHkgMTAwMDAgXAogIC1zdG9yZXBhc3MgYW5kcm9pZCAta2V5cGFzcyBhbmRyb2lkIFwKICAtZG5hbWUgIkNOPURTSCxPVT1EU0gsTz1EU0gsQz1VUyIgPi9kZXYvbnVsbCAyPiYxCmFwa3NpZ25lciBzaWduIC0ta3MgIiRLUyIgLS1rcy1wYXNzIHBhc3M6YW5kcm9pZCAtLWtleS1wYXNzIHBhc3M6YW5kcm9pZCBcCiAgLS1taW4tc2RrLXZlcnNpb24gMjEgLS1tYXgtc2RrLXZlcnNpb24gMzQgXAogIC0tb3V0ICIkQVBLIiAiJE9VVC9maW5hbC5hcGsiCmFwa3NpZ25lciB2ZXJpZnkgLS1wcmludC1jZXJ0cyAiJEFQSyIgMj4mMSB8IGhlYWQgLTQKcHl0aG9uMyAtICIkQVBLIiA8PCdQWScKaW1wb3J0IHN5cywgemlwZmlsZSwgb3MKeiA9IHppcGZpbGUuWmlwRmlsZShzeXMuYXJndlsxXSkKbiA9IHoubmFtZWxpc3QoKQpuZWVkID0gWydjbGFzc2VzLmRleCcsICdBbmRyb2lkTWFuaWZlc3QueG1sJywgJ3Jlc291cmNlcy5hcnNjJ10Kc2lnbmVkID0gW3ggZm9yIHggaW4gbiBpZiB4LnN0YXJ0c3dpdGgoJ01FVEEtSU5GLycpIGFuZCB4LmVuZHN3aXRoKCcuU0YnKV0KcHJpbnQoJyAg5qCh6aqMOicsICdPSycgaWYgYWxsKGsgaW4gbiBmb3IgayBpbiBuZWVkKSBhbmQgc2lnbmVkIGVsc2UgJ+e8uuetvuWQjeaIluadoeebricpCnByaW50KCcgIOWkp+WwjzogJS4xZiBLQiwg5p2h55uuICVkJyAlIChvcy5wYXRoLmdldHNpemUoc3lzLmFyZ3ZbMV0pIC8gMTAyNCwgbGVuKG4pKSkKUFkKZWNobyAi5Lqn54mpOiAkQVBLIgo=
+#!/usr/bin/env bash
+# 本地 aarch64 构建：Debian 的 aapt2/zipalign/apksigner + build-tools 里的 d8.jar
+set -euo pipefail
+cd "$(dirname "$0")"
+
+export JAVA_HOME="${JAVA_HOME:-/usr/lib/jvm/java-17-openjdk-arm64}"
+export PATH="$JAVA_HOME/bin:$PATH"
+
+# Debian 的 aapt2 2.19 读不了 API 34 的 android.jar（RES_TABLE entry offsets overlap），
+# 所以默认用 API 30 的平台包；需要时用 PLAT=... 覆盖。
+PLAT="${PLAT:-}"
+if [ -z "$PLAT" ]; then
+  for c in /tmp/android30.jar /tmp/android-30/android.jar /tmp/android.jar; do
+    [ -f "$c" ] && PLAT="$c" && break
+  done
+fi
+PLAT="${PLAT:-/tmp/android.jar}"
+D8="${D8:-/tmp/d8.jar}"
+OUT=out/local
+RES="$OUT/res.zip"
+GEN="$OUT/gen"
+OBJ="$OUT/obj"
+DEX="$OUT/dex"
+APK="$OUT/CFMobile-debug.apk"
+
+[ -f "$PLAT" ] || { echo "缺平台 jar: $PLAT"; exit 1; }
+[ -f "$D8" ] || { echo "缺 d8: $D8"; exit 1; }
+rm -rf "$OUT"; mkdir -p "$GEN" "$OBJ" "$DEX" "$OUT/apk"
+
+echo "== aapt2 compile =="
+aapt2 compile --dir app/res -o "$RES"
+
+echo "== aapt2 link =="
+aapt2 link -I "$PLAT" \
+  --manifest app/AndroidManifest.xml \
+  --min-sdk-version 21 --target-sdk-version 34 \
+  --version-code 1 --version-name 1.0 \
+  --auto-add-overlay \
+  --java "$GEN" \
+  -o "$OUT/base.apk" \
+  "$RES"
+
+echo "== javac =="
+find app/src "$GEN" -name '*.java' > "$OUT/srcs.txt"
+xargs -a "$OUT/srcs.txt" javac -nowarn -encoding UTF-8 \
+  -source 1.8 -target 1.8 -bootclasspath "$PLAT" -d "$OBJ" 2>&1 | grep -v 'bootstrap class path' || true
+find "$OBJ" -name '*.class' > "$OUT/classes.txt"
+echo "  classes: $(wc -l < "$OUT/classes.txt")"
+
+echo "== d8 =="
+mapfile -t CLS < "$OUT/classes.txt"
+java -cp "$D8" com.android.tools.r8.D8 \
+  --lib "$PLAT" --min-api 21 --output "$DEX" --release "${CLS[@]}"
+ls -la "$DEX/classes.dex" | awk '{print "  classes.dex", $5, "bytes"}'
+
+echo "== 注入 dex =="
+python3 - "$OUT/base.apk" "$DEX/classes.dex" "$OUT/aligned.apk" <<'PY'
+import sys, zipfile, shutil
+base, dex, tmp = sys.argv[1], sys.argv[2], sys.argv[3]
+zin = zipfile.ZipFile(base)
+zout = zipfile.ZipFile(tmp, 'w', zipfile.ZIP_DEFLATED)
+seen = set()
+for it in zin.infolist():
+    zout.writestr(it, zin.read(it.filename)); seen.add(it.filename)
+if 'classes.dex' in seen:
+    zout.close(); raise SystemExit('classes.dex 已存在于 base.apk')
+zout.write(dex, 'classes.dex', zipfile.ZIP_STORED)
+zout.close(); zin.close()
+print('  条目:', len(seen) + 1)
+PY
+
+echo "== zipalign =="
+zipalign -f 4 "$OUT/aligned.apk" "$OUT/final.apk"
+
+echo "== sign =="
+KS="$OUT/debug.keystore"
+[ -f "$KS" ] || keytool -genkeypair -v -keystore "$KS" -alias androiddebugkey \
+  -keyalg RSA -keysize 2048 -validity 10000 \
+  -storepass android -keypass android \
+  -dname "CN=DSH,OU=DSH,O=DSH,C=US" >/dev/null 2>&1
+apksigner sign --ks "$KS" --ks-pass pass:android --key-pass pass:android \
+  --min-sdk-version 21 --max-sdk-version 34 \
+  --out "$APK" "$OUT/final.apk"
+apksigner verify --print-certs "$APK" 2>&1 | head -4
+python3 - "$APK" <<'PY'
+import sys, zipfile, os
+z = zipfile.ZipFile(sys.argv[1])
+n = z.namelist()
+need = ['classes.dex', 'AndroidManifest.xml', 'resources.arsc']
+signed = [x for x in n if x.startswith('META-INF/') and x.endswith('.SF')]
+print('  校验:', 'OK' if all(k in n for k in need) and signed else '缺签名或条目')
+print('  大小: %.1f KB, 条目 %d' % (os.path.getsize(sys.argv[1]) / 1024, len(n)))
+PY
+echo "产物: $APK"

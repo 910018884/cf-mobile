@@ -1,1 +1,40 @@
-cGFja2FnZSBjb20uZHNoLmNmOwoKLyoqIOatpuWZqOaVsOWAvOihqO+8jOiHtOaVrCBDRiDnu4/lhbjmnqrjgILmiYDmnInljZXkvY3lhbHnlKjlkIzkuIDlvKDooajjgIIgKi8KcHVibGljIGZpbmFsIGNsYXNzIENGV2VhcG9uIHsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBBSyA9IDAsIE00ID0gMSwgQVdNID0gMiwgREVBR0xFID0gMywgS05JRkUgPSA0OwoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nW10gTkFNRSA9IHsiQUs0NyIsICJNNEExIiwgIkFXTSIsICLmspnpubAiLCAi5Yab55So5Yi65YiAIn07CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZ1tdIEtJTkQgPSB7IueqgeWHu+atpeaeqiIsICLnqoHlh7vmraXmnqoiLCAi54uZ5Ye75p6qIiwgIuaJi+aeqiIsICLov5HmiJgifTsKCiAgICAvKiog5by55Yyj5a656YeP77yMMCDooajnpLrml6DpmZDvvIjov5HmiJjvvInjgIIgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50W10gTUFHID0gezMwLCAzMCwgMTAsIDcsIDB9OwogICAgLyoqIOWkh+W8ueOAgiAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnRbXSBQQUNLID0gezkwLCA5MCwgMzAsIDM1LCAwfTsKICAgIC8qKiDkuKTlj5HkuYvpl7TnmoTpl7TpmpTvvIjnp5LvvInjgIIgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgZmxvYXRbXSBST0YgPSB7MC4wOThmLCAwLjA4NmYsIDEuNDJmLCAwLjI2ZiwgMC40MmZ9OwogICAgLyoqIOWNleWPkeS8pOWus++8iOi6q+S9k++8ieOAgiAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBmbG9hdFtdIERNRyA9IHszNGYsIDI3ZiwgMTI4ZiwgNjJmLCA3OGZ9OwogICAgLyoqIOWfuuehgOaVo+W4g++8iOW8p+W6pu+8ieOAgiAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBmbG9hdFtdIFNQUkVBRCA9IHswLjA1MGYsIDAuMDM4ZiwgMC4wMDdmLCAwLjA1MmYsIDAuMDIwZn07CiAgICAvKiog5pyJ5pWI5bCE56iL77yI5qC877yJ77yM6LaF5Ye65ZCO5Lyk5a6z6KGw5YeP44CCICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGZsb2F0W10gUkFOR0UgPSB7MThmLCAxN2YsIDM0ZiwgMTNmLCAxLjRmfTsKICAgIC8qKiDlvLnpgJ/vvIjmoLwv56eS77yJ44CCICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGZsb2F0W10gU1BFRUQgPSB7MjdmLCAyOGYsIDQ2ZiwgMjNmLCAwZn07CiAgICAvKiog5o2i5by55pe26Ze044CCICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGZsb2F0W10gUkVMT0FEID0gezIuMTVmLCAxLjk1ZiwgMy4zMGYsIDEuNDVmLCAwZn07CiAgICAvKiog5oyB5o+h5pe255qE56e76YCf5YCN546H44CCICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGZsb2F0W10gUlVOID0gezEuMDBmLCAxLjAyZiwgMC44MGYsIDEuMDZmLCAxLjE0Zn07CiAgICAvKiog5piv5ZCm5YWo6Ieq5Yqo44CCICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGJvb2xlYW5bXSBBVVRPID0ge3RydWUsIHRydWUsIGZhbHNlLCBmYWxzZSwgdHJ1ZX07CiAgICAvKiog5byA54Gr6Z+z5pWIIGlk44CCICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludFtdIFNORCA9IHtDRkF1ZGlvLkFLLCBDRkF1ZGlvLkFLLCBDRkF1ZGlvLkFXTSwgQ0ZBdWRpby5QSVNUT0wsIENGQXVkaW8uS05JRkV9OwoKICAgIC8qKiDniIblpLTlgI3njofvvJpBSyDov5nnsbvmraXmnqrniIblpLTmlLbnm4rmnIDlpKfvvIzni5nlh7vnm7TmjqXnp5LjgIIgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgZmxvYXRbXSBIRUFEID0gezIuNmYsIDIuNmYsIDEuMzVmLCAyLjRmLCAyLjJmfTsKCiAgICBwdWJsaWMgc3RhdGljIFN0cmluZyBhbW1vKGludCB3LCBpbnQgbWFnLCBpbnQgcmVzKSB7CiAgICAgICAgcmV0dXJuIE1BR1t3XSA9PSAwID8gIuKIniIgOiBtYWcgKyAiIC8gIiArIHJlczsKICAgIH0KfQo=
+package com.dsh.cf;
+
+/** 武器数值表，致敬 CF 经典枪。所有单位共用同一张表。 */
+public final class CFWeapon {
+
+    public static final int AK = 0, M4 = 1, AWM = 2, DEAGLE = 3, KNIFE = 4;
+
+    public static final String[] NAME = {"AK47", "M4A1", "AWM", "沙鹰", "军用刺刀"};
+    public static final String[] KIND = {"突击步枪", "突击步枪", "狙击枪", "手枪", "近战"};
+
+    /** 弹匣容量，0 表示无限（近战）。 */
+    public static final int[] MAG = {30, 30, 10, 7, 0};
+    /** 备弹。 */
+    public static final int[] PACK = {90, 90, 30, 35, 0};
+    /** 两发之间的间隔（秒）。 */
+    public static final float[] ROF = {0.098f, 0.086f, 1.42f, 0.26f, 0.42f};
+    /** 单发伤害（身体）。 */
+    public static final float[] DMG = {34f, 27f, 128f, 62f, 78f};
+    /** 基础散布（弧度）。 */
+    public static final float[] SPREAD = {0.050f, 0.038f, 0.007f, 0.052f, 0.020f};
+    /** 有效射程（格），超出后伤害衰减。 */
+    public static final float[] RANGE = {18f, 17f, 34f, 13f, 1.4f};
+    /** 弹速（格/秒）。 */
+    public static final float[] SPEED = {27f, 28f, 46f, 23f, 0f};
+    /** 换弹时间。 */
+    public static final float[] RELOAD = {2.15f, 1.95f, 3.30f, 1.45f, 0f};
+    /** 持握时的移速倍率。 */
+    public static final float[] RUN = {1.00f, 1.02f, 0.80f, 1.06f, 1.14f};
+    /** 是否全自动。 */
+    public static final boolean[] AUTO = {true, true, false, false, true};
+    /** 开火音效 id。 */
+    public static final int[] SND = {CFAudio.AK, CFAudio.AK, CFAudio.AWM, CFAudio.PISTOL, CFAudio.KNIFE};
+
+    /** 爆头倍率：AK 这类步枪爆头收益最大，狙击直接秒。 */
+    public static final float[] HEAD = {2.6f, 2.6f, 1.35f, 2.4f, 2.2f};
+
+    public static String ammo(int w, int mag, int res) {
+        return MAG[w] == 0 ? "∞" : mag + " / " + res;
+    }
+}

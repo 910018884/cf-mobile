@@ -1,1 +1,214 @@
-cGFja2FnZSBjb20uZHNoLmNmOwoKLy8g5rKZ5ryg54Gw5byP5Zyw5Zu+77yaNDR4MzYg572R5qC877yM5Lit6ZeoICsgQiDmtJ4gKyBBL0Ig5YyF54K577yM5Lik5L6n5Z+65ZywCnB1YmxpYyBmaW5hbCBjbGFzcyBDRk1hcCB7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBXID0gNDQsIEggPSAzNjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgYnl0ZSBTQU5EID0gMSwgQlJJQ0sgPSAyLCBDUkFURSA9IDMsIE1FVEFMID0gNCwgTkVUID0gNSwgQ09OQyA9IDY7CgogICAgc3RhdGljIGZpbmFsIGJ5dGVbXSBHID0gbmV3IGJ5dGVbVyAqIEhdOwoKICAgIC8vIOWMheeCueiMg+WbtCB4MCx5MCx4MSx5Me+8iOWQq++8iQogICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnRbXSBTSVRFX0EgPSB7MjgsIDI0LCAzOCwgMzF9OwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnRbXSBTSVRFX0IgPSB7NCwgNCwgMTQsIDEyfTsKICAgIC8vIOWfuuWcsOiMg+WbtAogICAgc3RhdGljIGZpbmFsIGludFtdIEJBU0VfUiA9IHszNSwgMSwgNDIsIDZ9OyAgIC8vIOa9nOS8j+iAhe+8iOe6ou+8ieS4nOWMlwogICAgc3RhdGljIGZpbmFsIGludFtdIEJBU0VfQiA9IHsxLCAyOSwgOCwgMzR9OyAgIC8vIOS/neWNq+iAhe+8iOiTne+8ieilv+WNlwoKICAgIHN0YXRpYyBpbnRbXSBibHVlU3AsIHJlZFNwOyAgIC8vIOWHuueUn+agvCB7eCx5LC4uLn0KCiAgICBzdGF0aWMgewogICAgICAgIGJ1aWxkKCk7CiAgICB9CgogICAgc3RhdGljIHZvaWQgYnVpbGQoKSB7CiAgICAgICAgZm9yIChpbnQgeSA9IDA7IHkgPCBIOyB5KyspIGZvciAoaW50IHggPSAwOyB4IDwgVzsgeCsrKSBHW3kgKiBXICsgeF0gPSAwOwogICAgICAgIC8vIOWkluWimQogICAgICAgIGZvciAoaW50IHggPSAwOyB4IDwgVzsgeCsrKSB7IHNldCh4LCAwLCBTQU5EKTsgc2V0KHgsIEggLSAxLCBTQU5EKTsgfQogICAgICAgIGZvciAoaW50IHkgPSAwOyB5IDwgSDsgeSsrKSB7IHNldCgwLCB5LCBTQU5EKTsgc2V0KFcgLSAxLCB5LCBTQU5EKTsgfQoKICAgICAgICAvLyDkuK3lnLrnurXlopnvvIjnlZnkuK3pl6jpgJrpgZPvvIkKICAgICAgICB2V2FsbCgyMSwgMSwgMTMsIFNBTkQpOwogICAgICAgIHZXYWxsKDIxLCAyMiwgMzQsIFNBTkQpOwogICAgICAgIGJveCgyMCwgMTYsIDIxLCAxNywgTUVUQUwpOyAgICAgICAgLy8g5Lit6Zeo6ZOB6ZeoCiAgICAgICAgdldhbGwoMjAsIDI0LCAzMCwgQlJJQ0spOwoKICAgICAgICAvLyBCIOS+p++8iOilv+WMl++8ie+8mua0nuWGheaal+WimSArIOaOqeS9kwogICAgICAgIGhXYWxsKDEsIDE2LCAxMywgQlJJQ0spOwogICAgICAgIGJveCgxMCwgOCwgMTEsIDgsIENSQVRFKTsKICAgICAgICBib3goNSwgNiwgNiwgNywgQ1JBVEUpOwogICAgICAgIGJveCgxMywgMywgMTQsIDQsIE5FVCk7CiAgICAgICAgYm94KDIsIDEwLCAzLCAxMSwgTkVUKTsKICAgICAgICBib3goMTUsIDEwLCAxNiwgMTIsIENPTkMpOwoKICAgICAgICAvLyBBIOS+p++8iOS4nOWNl++8ie+8muWMheeCueW7uuetkee+pAogICAgICAgIGhXYWxsKDI3LCA0MiwgMjMsIEJSSUNLKTsKICAgICAgICB2V2FsbCgyNywgMjQsIDMxLCBDT05DKTsKICAgICAgICBib3goMzMsIDI2LCAzNCwgMjcsIENSQVRFKTsKICAgICAgICBib3goMzcsIDI0LCAzOCwgMjUsIENSQVRFKTsKICAgICAgICBib3goMzAsIDMwLCAzMSwgMzEsIENSQVRFKTsKICAgICAgICBib3goNDAsIDI4LCA0MSwgMjksIE5FVCk7CiAgICAgICAgYm94KDI5LCAxOSwgMzAsIDIwLCBDT05DKTsKCiAgICAgICAgLy8g5Lit5Zy65qiq5aKZ77yI6L+e6YCa5Lik57+877yJCiAgICAgICAgaFdhbGwoOCwgMTksIDIwLCBTQU5EKTsKICAgICAgICBoV2FsbCgyNCwgMzQsIDEzLCBTQU5EKTsKCiAgICAgICAgLy8g5pWj6JC95pyo566x5YGa5p6q57q/5o6p5L2TCiAgICAgICAgYm94KDE3LCAxNiwgMTgsIDE3LCBDUkFURSk7CiAgICAgICAgYm94KDI0LCAxOSwgMjUsIDIwLCBDUkFURSk7CiAgICAgICAgYm94KDIzLCAyNywgMjQsIDI4LCBDUkFURSk7CiAgICAgICAgYm94KDEyLCAyMiwgMTMsIDIzLCBDUkFURSk7CiAgICAgICAgYm94KDcsIDI2LCA4LCAyNiwgQ1JBVEUpOwogICAgICAgIGJveCgzNSwgMTUsIDM2LCAxNiwgQ1JBVEUpOwogICAgICAgIGJveCgzMSwgOCwgMzIsIDksIENSQVRFKTsKICAgICAgICBib3goNCwgMTgsIDUsIDE5LCBDUkFURSk7CiAgICAgICAgYm94KDE5LCAzMSwgMjAsIDMyLCBDUkFURSk7CgogICAgICAgIC8vIOWfuuWcsOWbtOWimQogICAgICAgIGJveCg5LCAyOSwgOSwgMjksIENPTkMpOyBib3goMzQsIDYsIDM0LCA2LCBDT05DKTsKICAgICAgICB2V2FsbCgzNCwgMSwgNCwgU0FORCk7CiAgICAgICAgaFdhbGwoMSwgOSwgMjgsIFNBTkQpOwoKICAgICAgICBjb2xsZWN0U3Bhd25zKCk7CiAgICB9CgogICAgc3RhdGljIHZvaWQgc2V0KGludCB4LCBpbnQgeSwgYnl0ZSB0KSB7CiAgICAgICAgaWYgKHggPj0gMCAmJiB5ID49IDAgJiYgeCA8IFcgJiYgeSA8IEgpIEdbeSAqIFcgKyB4XSA9IHQ7CiAgICB9CiAgICBzdGF0aWMgdm9pZCBib3goaW50IHgwLCBpbnQgeTAsIGludCB4MSwgaW50IHkxLCBieXRlIHQpIHsKICAgICAgICBmb3IgKGludCB5ID0geTA7IHkgPD0geTE7IHkrKykgZm9yIChpbnQgeCA9IHgwOyB4IDw9IHgxOyB4KyspIHNldCh4LCB5LCB0KTsKICAgIH0KICAgIHN0YXRpYyB2b2lkIGhXYWxsKGludCB4MCwgaW50IHgxLCBpbnQgeSwgYnl0ZSB0KSB7IGJveCh4MCwgeSwgeDEsIHksIHQpOyB9CiAgICBzdGF0aWMgdm9pZCB2V2FsbChpbnQgeCwgaW50IHkwLCBpbnQgeTEsIGJ5dGUgdCkgeyBib3goeCwgeTAsIHgsIHkxLCB0KTsgfQoKICAgIHN0YXRpYyB2b2lkIGNvbGxlY3RTcGF3bnMoKSB7CiAgICAgICAgYmx1ZVNwID0gY2VsbHMoQkFTRV9CKTsKICAgICAgICByZWRTcCA9IGNlbGxzKEJBU0VfUik7CiAgICB9CiAgICBzdGF0aWMgaW50W10gY2VsbHMoaW50W10gYmFzZSkgewogICAgICAgIGludCBuID0gMDsKICAgICAgICBpbnRbXSB0bXAgPSBuZXcgaW50WyhiYXNlWzJdIC0gYmFzZVswXSArIDEpICogKGJhc2VbM10gLSBiYXNlWzFdICsgMSkgKiAyXTsKICAgICAgICBmb3IgKGludCB5ID0gYmFzZVsxXTsgeSA8PSBiYXNlWzNdOyB5KyspCiAgICAgICAgICAgIGZvciAoaW50IHggPSBiYXNlWzBdOyB4IDw9IGJhc2VbMl07IHgrKykKICAgICAgICAgICAgICAgIGlmIChmcmVlKHgsIHkpKSB7IHRtcFtuICogMl0gPSB4OyB0bXBbbiAqIDIgKyAxXSA9IHk7IG4rKzsgfQogICAgICAgIGludFtdIHIgPSBuZXcgaW50W24gKiAyXTsKICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KHRtcCwgMCwgciwgMCwgbiAqIDIpOwogICAgICAgIHJldHVybiByOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgYnl0ZSBhdChpbnQgeCwgaW50IHkpIHsKICAgICAgICBpZiAoeCA8IDAgfHwgeSA8IDAgfHwgeCA+PSBXIHx8IHkgPj0gSCkgcmV0dXJuIFNBTkQ7CiAgICAgICAgcmV0dXJuIEdbeSAqIFcgKyB4XTsKICAgIH0KICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBzb2xpZChpbnQgeCwgaW50IHkpIHsgcmV0dXJuIGF0KHgsIHkpICE9IDA7IH0KICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBmcmVlKGludCB4LCBpbnQgeSkgeyByZXR1cm4gYXQoeCwgeSkgPT0gMDsgfQoKICAgIHB1YmxpYyBzdGF0aWMgaW50IHRleChieXRlIHQpIHsKICAgICAgICBzd2l0Y2ggKHQpIHsKICAgICAgICAgICAgY2FzZSBTQU5EOiByZXR1cm4gMDsKICAgICAgICAgICAgY2FzZSBCUklDSzogcmV0dXJuIDE7CiAgICAgICAgICAgIGNhc2UgQ1JBVEU6IHJldHVybiAyOwogICAgICAgICAgICBjYXNlIE1FVEFMOiByZXR1cm4gMzsKICAgICAgICAgICAgY2FzZSBORVQ6IHJldHVybiA0OwogICAgICAgICAgICBjYXNlIENPTkM6IHJldHVybiA1OwogICAgICAgICAgICBkZWZhdWx0OiByZXR1cm4gMDsKICAgICAgICB9CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBib29sZWFuIGluU2l0ZShpbnRbXSBzLCBkb3VibGUgeCwgZG91YmxlIHkpIHsKICAgICAgICByZXR1cm4geCA+PSBzWzBdIC0gLjUgJiYgeSA+PSBzWzFdIC0gLjUgJiYgeCA8PSBzWzJdICsgMS41ICYmIHkgPD0gc1szXSArIDEuNTsKICAgIH0KCiAgICAvLyDljZXkvY3norDmkp7vvJrlnIblvaIgQUFCQiDph4fmoLcKICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBwYXNzYWJsZShkb3VibGUgeCwgZG91YmxlIHksIGRvdWJsZSByKSB7CiAgICAgICAgaW50IHgwID0gKGludCkgTWF0aC5mbG9vcih4IC0gciksIHgxID0gKGludCkgTWF0aC5mbG9vcih4ICsgcik7CiAgICAgICAgaW50IHkwID0gKGludCkgTWF0aC5mbG9vcih5IC0gciksIHkxID0gKGludCkgTWF0aC5mbG9vcih5ICsgcik7CiAgICAgICAgZm9yIChpbnQgeXkgPSB5MDsgeXkgPD0geTE7IHl5KyspCiAgICAgICAgICAgIGZvciAoaW50IHh4ID0geDA7IHh4IDw9IHgxOyB4eCsrKQogICAgICAgICAgICAgICAgaWYgKHNvbGlkKHh4LCB5eSkpIHsKICAgICAgICAgICAgICAgICAgICBkb3VibGUgZHggPSBNYXRoLm1heChNYXRoLmFicyh4IC0geHgpIC0gLjUsIDApLCBkeSA9IE1hdGgubWF4KE1hdGguYWJzKHkgLSB5eSkgLSAuNSwgMCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGR4ICogZHggKyBkeSAqIGR5IDwgciAqIHIpIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICAvLyDop4bnur/vvJrmraXov5vph4fmoLcKICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBsb3MoZG91YmxlIHgwLCBkb3VibGUgeTAsIGRvdWJsZSB4MSwgZG91YmxlIHkxKSB7CiAgICAgICAgZG91YmxlIGR4ID0geDEgLSB4MCwgZHkgPSB5MSAtIHkwOwogICAgICAgIGRvdWJsZSBkID0gTWF0aC5oeXBvdChkeCwgZHkpOwogICAgICAgIGlmIChkIDwgMWUtNikgcmV0dXJuIHRydWU7CiAgICAgICAgZG91YmxlIHN0ID0gMC4xMjsKICAgICAgICBmb3IgKGRvdWJsZSB0ID0gc3Q7IHQgPCBkOyB0ICs9IHN0KSB7CiAgICAgICAgICAgIGludCBjeCA9IChpbnQpICh4MCArIGR4ICogdCAvIGQpLCBjeSA9IChpbnQpICh5MCArIGR5ICogdCAvIGQpOwogICAgICAgICAgICBpZiAoc29saWQoY3gsIGN5KSkgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICAvLyBCRlMg5rWB5Zy677yaYm90IOi1sOWQkeebruagh+agvAogICAgcHVibGljIHN0YXRpYyBpbnRbXSBmbG93KGludCB0eCwgaW50IHR5KSB7CiAgICAgICAgaW50W10gZGlzdCA9IG5ldyBpbnRbVyAqIEhdOwogICAgICAgIGphdmEudXRpbC5BcnJheXMuZmlsbChkaXN0LCAtMSk7CiAgICAgICAgaW50W10gcSA9IG5ldyBpbnRbVyAqIEhdOwogICAgICAgIGludCBoZWFkID0gMCwgdGFpbCA9IDA7CiAgICAgICAgaWYgKCFmcmVlKHR4LCB0eSkpIHsgLy8g55uu5qCH5Zyo5aKZ6YeM5bCx6L+R5om+CiAgICAgICAgICAgIGludFtdIGYgPSBuZWFyZXN0RnJlZSh0eCwgdHkpOwogICAgICAgICAgICBpZiAoZiA9PSBudWxsKSByZXR1cm4gZGlzdDsKICAgICAgICAgICAgdHggPSBmWzBdOyB0eSA9IGZbMV07CiAgICAgICAgfQogICAgICAgIHFbdGFpbCsrXSA9IHR5ICogVyArIHR4OyBkaXN0W3R5ICogVyArIHR4XSA9IDA7CiAgICAgICAgd2hpbGUgKGhlYWQgPCB0YWlsKSB7CiAgICAgICAgICAgIGludCBjID0gcVtoZWFkKytdLCBjeCA9IGMgJSBXLCBjeSA9IGMgLyBXLCBuZCA9IGRpc3RbY10gKyAxOwogICAgICAgICAgICBpbnRbXVtdIGQ0ID0ge3sxLCAwfSwgey0xLCAwfSwgezAsIDF9LCB7MCwgLTF9fTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCA0OyBpKyspIHsKICAgICAgICAgICAgICAgIGludCBueCA9IGN4ICsgZDRbaV1bMF0sIG55ID0gY3kgKyBkNFtpXVsxXTsKICAgICAgICAgICAgICAgIGlmICghZnJlZShueCwgbnkpKSBjb250aW51ZTsKICAgICAgICAgICAgICAgIGludCBuaSA9IG55ICogVyArIG54OwogICAgICAgICAgICAgICAgaWYgKGRpc3RbbmldIDwgMCkgeyBkaXN0W25pXSA9IG5kOyBxW3RhaWwrK10gPSBuaTsgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBkaXN0OwogICAgfQoKICAgIHN0YXRpYyBpbnRbXSBuZWFyZXN0RnJlZShpbnQgeCwgaW50IHkpIHsKICAgICAgICBmb3IgKGludCByID0gMDsgciA8IDY7IHIrKykKICAgICAgICAgICAgZm9yIChpbnQgZHkgPSAtcjsgZHkgPD0gcjsgZHkrKykKICAgICAgICAgICAgICAgIGZvciAoaW50IGR4ID0gLXI7IGR4IDw9IHI7IGR4KyspCiAgICAgICAgICAgICAgICAgICAgaWYgKGZyZWUoeCArIGR4LCB5ICsgZHkpKSByZXR1cm4gbmV3IGludFtde3ggKyBkeCwgeSArIGR5fTsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIGludFtdIHNwYXduKGludCB0ZWFtLCBqYXZhLnV0aWwuUmFuZG9tIHJuZCkgewogICAgICAgIGludFtdIHMgPSB0ZWFtID09IDAgPyBibHVlU3AgOiByZWRTcDsKICAgICAgICBpZiAocy5sZW5ndGggPT0gMCkgcmV0dXJuIG5ldyBpbnRbXXtXIC8gMiwgSCAvIDJ9OwogICAgICAgIGludCBpID0gcm5kLm5leHRJbnQocy5sZW5ndGggLyAyKSAqIDI7CiAgICAgICAgcmV0dXJuIG5ldyBpbnRbXXtzW2ldLCBzW2kgKyAxXX07CiAgICB9CgogICAgLy8gLS0tLSDoh6rmo4DvvJrov57pgJrmgKcgKyBBU0NJSSDpooTop4jvvIhKVk0g5LiL55u05o6l6LeR77yJLS0tLQogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYSkgewogICAgICAgIGludFtdIGZsID0gZmxvdygyLCAzMSk7CiAgICAgICAgaW50IHJlYWNoID0gMCwgdG90YWwgPSAwOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgRy5sZW5ndGg7IGkrKykgaWYgKEdbaV0gPT0gMCkgdG90YWwrKzsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGZsLmxlbmd0aDsgaSsrKSBpZiAoZmxbaV0gPj0gMCkgcmVhY2grKzsKICAgICAgICBpbnQgcmMgPSAwOwogICAgICAgIGZvciAoaW50IHkgPSBCQVNFX1JbMV07IHkgPD0gQkFTRV9SWzNdOyB5KyspIGZvciAoaW50IHggPSBCQVNFX1JbMF07IHggPD0gQkFTRV9SWzJdOyB4KyspCiAgICAgICAgICAgIGlmIChmcmVlKHgsIHkpICYmIGZsW3kgKiBXICsgeF0gPj0gMCkgcmMrKzsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuepuuagvCAiICsgdG90YWwgKyAiIOWPr+i+viAiICsgcmVhY2ggKyAiIOe6ouWfuuWcsOi/numAmuagvCAiICsgcmMgKyAiLyIgKyByZWRTcC5sZW5ndGggLyAyCiAgICAgICAgICAgICAgICArICIg6JOd5Ye655SfICIgKyBibHVlU3AubGVuZ3RoIC8gMiArICIg57qi5Ye655SfICIgKyByZWRTcC5sZW5ndGggLyAyKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkEg54K55Y+v6L6+OiAiICsgKGZsW1NJVEVfQVsxXSAqIFcgKyBTSVRFX0FbMF1dID49IDApCiAgICAgICAgICAgICAgICArICIgQiDngrnlj6/ovr46ICIgKyAoZmxbU0lURV9CWzFdICogVyArIFNJVEVfQlswXV0gPj0gMCkKICAgICAgICAgICAgICAgICsgIiDkuK3pl6jkuKTkvqc6ICIgKyAoZmxbMTUgKiBXICsgMTldID49IDAgJiYgZmxbMTUgKiBXICsgMjJdID49IDApKTsKICAgICAgICBmb3IgKGludCB5ID0gMDsgeSA8IEg7IHkrKykgewogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICAgICAgZm9yIChpbnQgeCA9IDA7IHggPCBXOyB4KyspIHsKICAgICAgICAgICAgICAgIGJ5dGUgdCA9IEdbeSAqIFcgKyB4XTsKICAgICAgICAgICAgICAgIGNoYXIgYyA9IHQgPT0gMCA/ICcuJyA6ICh0ID09IFNBTkQgPyAnIycgOiB0ID09IEJSSUNLID8gJz0nIDogdCA9PSBDUkFURSA/ICdDJyA6IHQgPT0gTUVUQUwgPyAnTScgOiB0ID09IE5FVCA/ICduJyA6ICdOJyk7CiAgICAgICAgICAgICAgICBpZiAodCA9PSAwICYmIGluU2l0ZShTSVRFX0EsIHgsIHkpKSBjID0gJ0EnOwogICAgICAgICAgICAgICAgaWYgKHQgPT0gMCAmJiBpblNpdGUoU0lURV9CLCB4LCB5KSkgYyA9ICdCJzsKICAgICAgICAgICAgICAgIHNiLmFwcGVuZChjKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2IpOwogICAgICAgIH0KICAgIH0KfQo=
+package com.dsh.cf;
+
+// 沙漠灰式地图：44x36 网格，中门 + B 洞 + A/B 包点，两侧基地
+public final class CFMap {
+    public static final int W = 44, H = 36;
+    public static final byte SAND = 1, BRICK = 2, CRATE = 3, METAL = 4, NET = 5, CONC = 6;
+
+    static final byte[] G = new byte[W * H];
+
+    // 包点范围 x0,y0,x1,y1（含）
+    public static final int[] SITE_A = {28, 24, 38, 31};
+    public static final int[] SITE_B = {4, 4, 14, 12};
+    // 基地范围
+    static final int[] BASE_R = {35, 1, 42, 6};   // 潜伏者（红）东北
+    static final int[] BASE_B = {1, 29, 8, 34};   // 保卫者（蓝）西南
+
+    static int[] blueSp, redSp;   // 出生格 {x,y,...}
+
+    static {
+        build();
+    }
+
+    static void build() {
+        for (int y = 0; y < H; y++) for (int x = 0; x < W; x++) G[y * W + x] = 0;
+        // 外墙
+        for (int x = 0; x < W; x++) { set(x, 0, SAND); set(x, H - 1, SAND); }
+        for (int y = 0; y < H; y++) { set(0, y, SAND); set(W - 1, y, SAND); }
+
+        // 中场纵墙（留中门通道）
+        vWall(21, 1, 13, SAND);
+        vWall(21, 22, 34, SAND);
+        box(20, 16, 21, 17, METAL);        // 中门铁门
+        vWall(20, 24, 30, BRICK);
+
+        // B 侧（西北）：洞内暗墙 + 掩体
+        hWall(1, 16, 13, BRICK);
+        box(10, 8, 11, 8, CRATE);
+        box(5, 6, 6, 7, CRATE);
+        box(13, 3, 14, 4, NET);
+        box(2, 10, 3, 11, NET);
+        box(15, 10, 16, 12, CONC);
+
+        // A 侧（东南）：包点建筑群
+        hWall(27, 42, 23, BRICK);
+        vWall(27, 24, 31, CONC);
+        box(33, 26, 34, 27, CRATE);
+        box(37, 24, 38, 25, CRATE);
+        box(30, 30, 31, 31, CRATE);
+        box(40, 28, 41, 29, NET);
+        box(29, 19, 30, 20, CONC);
+
+        // 中场横墙（连通两翼）
+        hWall(8, 19, 20, SAND);
+        hWall(24, 34, 13, SAND);
+
+        // 散落木箱做枪线掩体
+        box(17, 16, 18, 17, CRATE);
+        box(24, 19, 25, 20, CRATE);
+        box(23, 27, 24, 28, CRATE);
+        box(12, 22, 13, 23, CRATE);
+        box(7, 26, 8, 26, CRATE);
+        box(35, 15, 36, 16, CRATE);
+        box(31, 8, 32, 9, CRATE);
+        box(4, 18, 5, 19, CRATE);
+        box(19, 31, 20, 32, CRATE);
+
+        // 基地围墙
+        box(9, 29, 9, 29, CONC); box(34, 6, 34, 6, CONC);
+        vWall(34, 1, 4, SAND);
+        hWall(1, 9, 28, SAND);
+
+        collectSpawns();
+    }
+
+    static void set(int x, int y, byte t) {
+        if (x >= 0 && y >= 0 && x < W && y < H) G[y * W + x] = t;
+    }
+    static void box(int x0, int y0, int x1, int y1, byte t) {
+        for (int y = y0; y <= y1; y++) for (int x = x0; x <= x1; x++) set(x, y, t);
+    }
+    static void hWall(int x0, int x1, int y, byte t) { box(x0, y, x1, y, t); }
+    static void vWall(int x, int y0, int y1, byte t) { box(x, y0, x, y1, t); }
+
+    static void collectSpawns() {
+        blueSp = cells(BASE_B);
+        redSp = cells(BASE_R);
+    }
+    static int[] cells(int[] base) {
+        int n = 0;
+        int[] tmp = new int[(base[2] - base[0] + 1) * (base[3] - base[1] + 1) * 2];
+        for (int y = base[1]; y <= base[3]; y++)
+            for (int x = base[0]; x <= base[2]; x++)
+                if (free(x, y)) { tmp[n * 2] = x; tmp[n * 2 + 1] = y; n++; }
+        int[] r = new int[n * 2];
+        System.arraycopy(tmp, 0, r, 0, n * 2);
+        return r;
+    }
+
+    public static byte at(int x, int y) {
+        if (x < 0 || y < 0 || x >= W || y >= H) return SAND;
+        return G[y * W + x];
+    }
+    public static boolean solid(int x, int y) { return at(x, y) != 0; }
+    public static boolean free(int x, int y) { return at(x, y) == 0; }
+
+    public static int tex(byte t) {
+        switch (t) {
+            case SAND: return 0;
+            case BRICK: return 1;
+            case CRATE: return 2;
+            case METAL: return 3;
+            case NET: return 4;
+            case CONC: return 5;
+            default: return 0;
+        }
+    }
+
+    public static boolean inSite(int[] s, double x, double y) {
+        return x >= s[0] - .5 && y >= s[1] - .5 && x <= s[2] + 1.5 && y <= s[3] + 1.5;
+    }
+
+    // 单位碰撞：圆形 AABB 采样
+    public static boolean passable(double x, double y, double r) {
+        int x0 = (int) Math.floor(x - r), x1 = (int) Math.floor(x + r);
+        int y0 = (int) Math.floor(y - r), y1 = (int) Math.floor(y + r);
+        for (int yy = y0; yy <= y1; yy++)
+            for (int xx = x0; xx <= x1; xx++)
+                if (solid(xx, yy)) {
+                    double dx = Math.max(Math.abs(x - xx) - .5, 0), dy = Math.max(Math.abs(y - yy) - .5, 0);
+                    if (dx * dx + dy * dy < r * r) return false;
+                }
+        return true;
+    }
+
+    // 视线：步进采样
+    public static boolean los(double x0, double y0, double x1, double y1) {
+        double dx = x1 - x0, dy = y1 - y0;
+        double d = Math.hypot(dx, dy);
+        if (d < 1e-6) return true;
+        double st = 0.12;
+        for (double t = st; t < d; t += st) {
+            int cx = (int) (x0 + dx * t / d), cy = (int) (y0 + dy * t / d);
+            if (solid(cx, cy)) return false;
+        }
+        return true;
+    }
+
+    // BFS 流场：bot 走向目标格
+    public static int[] flow(int tx, int ty) {
+        int[] dist = new int[W * H];
+        java.util.Arrays.fill(dist, -1);
+        int[] q = new int[W * H];
+        int head = 0, tail = 0;
+        if (!free(tx, ty)) { // 目标在墙里就近找
+            int[] f = nearestFree(tx, ty);
+            if (f == null) return dist;
+            tx = f[0]; ty = f[1];
+        }
+        q[tail++] = ty * W + tx; dist[ty * W + tx] = 0;
+        while (head < tail) {
+            int c = q[head++], cx = c % W, cy = c / W, nd = dist[c] + 1;
+            int[][] d4 = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+            for (int i = 0; i < 4; i++) {
+                int nx = cx + d4[i][0], ny = cy + d4[i][1];
+                if (!free(nx, ny)) continue;
+                int ni = ny * W + nx;
+                if (dist[ni] < 0) { dist[ni] = nd; q[tail++] = ni; }
+            }
+        }
+        return dist;
+    }
+
+    static int[] nearestFree(int x, int y) {
+        for (int r = 0; r < 6; r++)
+            for (int dy = -r; dy <= r; dy++)
+                for (int dx = -r; dx <= r; dx++)
+                    if (free(x + dx, y + dy)) return new int[]{x + dx, y + dy};
+        return null;
+    }
+
+    public static int[] spawn(int team, java.util.Random rnd) {
+        int[] s = team == 0 ? blueSp : redSp;
+        if (s.length == 0) return new int[]{W / 2, H / 2};
+        int i = rnd.nextInt(s.length / 2) * 2;
+        return new int[]{s[i], s[i + 1]};
+    }
+
+    // ---- 自检：连通性 + ASCII 预览（JVM 下直接跑）----
+    public static void main(String[] a) {
+        int[] fl = flow(2, 31);
+        int reach = 0, total = 0;
+        for (int i = 0; i < G.length; i++) if (G[i] == 0) total++;
+        for (int i = 0; i < fl.length; i++) if (fl[i] >= 0) reach++;
+        int rc = 0;
+        for (int y = BASE_R[1]; y <= BASE_R[3]; y++) for (int x = BASE_R[0]; x <= BASE_R[2]; x++)
+            if (free(x, y) && fl[y * W + x] >= 0) rc++;
+        System.out.println("空格 " + total + " 可达 " + reach + " 红基地连通格 " + rc + "/" + redSp.length / 2
+                + " 蓝出生 " + blueSp.length / 2 + " 红出生 " + redSp.length / 2);
+        System.out.println("A 点可达: " + (fl[SITE_A[1] * W + SITE_A[0]] >= 0)
+                + " B 点可达: " + (fl[SITE_B[1] * W + SITE_B[0]] >= 0)
+                + " 中门两侧: " + (fl[15 * W + 19] >= 0 && fl[15 * W + 22] >= 0));
+        for (int y = 0; y < H; y++) {
+            StringBuilder sb = new StringBuilder();
+            for (int x = 0; x < W; x++) {
+                byte t = G[y * W + x];
+                char c = t == 0 ? '.' : (t == SAND ? '#' : t == BRICK ? '=' : t == CRATE ? 'C' : t == METAL ? 'M' : t == NET ? 'n' : 'N');
+                if (t == 0 && inSite(SITE_A, x, y)) c = 'A';
+                if (t == 0 && inSite(SITE_B, x, y)) c = 'B';
+                sb.append(c);
+            }
+            System.out.println(sb);
+        }
+    }
+}

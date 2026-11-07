@@ -1,1 +1,64 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIOaJi+WGmSBBbmRyb2lkIOaehOW7uu+8mmFhcHQyICsgamF2YWMgKyBkOCArIHppcGFsaWduICsgYXBrc2lnbmVy77yI5LiN55SoIEdyYWRsZe+8iQpzZXQgLWV1byBwaXBlZmFpbAoKQVBJPSIke0FQSV9MRVZFTDotMzR9IgpCVF9WRVI9IiR7QlVJTERfVE9PTFM6LTM0LjAuMH0iCkhPTUVfU0RLPSIke0FORFJPSURfSE9NRTotJHtBTkRST0lEX1NES19ST09UOi19fSIKUEtHPSJDRk1vYmlsZS1kZWJ1Zy5hcGsiCgppZiBbIC16ICIkSE9NRV9TREsiIF07IHRoZW4gZWNobyAiQU5EUk9JRF9IT01FIOacquiuvue9riI7IGV4aXQgMTsgZmkKQlQ9IiRIT01FX1NESy9idWlsZC10b29scy8kQlRfVkVSIgpQTEFUPSIkSE9NRV9TREsvcGxhdGZvcm1zL2FuZHJvaWQtJEFQSS9hbmRyb2lkLmphciIKCmlmIFsgISAteCAiJEJUL2FhcHQyIiBdOyB0aGVuCiAgZWNobyAi5om+5LiN5YiwIGFhcHQy77yaJEJUL2FhcHQyIjsgZWNobyAi5Y+v55SoIGJ1aWxkLXRvb2xz77yaJChscyAiJEhPTUVfU0RLL2J1aWxkLXRvb2xzIiAyPi9kZXYvbnVsbCkiCiAgQlQ9JChscyAtMSAiJEhPTUVfU0RLL2J1aWxkLXRvb2xzIiB8IHRhaWwgLTEpOyBCVD0iJEhPTUVfU0RLL2J1aWxkLXRvb2xzLyRCVCIKICBlY2hvICLmlLnnlKjvvJokQlQiCmZpClsgLWYgIiRQTEFUIiBdIHx8IHsgZWNobyAi5om+5LiN5YiwICRQTEFUIjsgZXhpdCAxOyB9CgpybSAtcmYgb3V0Cm1rZGlyIC1wIG91dC9nZW4gb3V0L29iaiBvdXQvYXBrCgplY2hvICLihpIgYWFwdDIgY29tcGlsZSIKIiRCVC9hYXB0MiIgY29tcGlsZSAtLWRpciBhcHAvcmVzIC1vIG91dC9yZXMuemlwCgplY2hvICLihpIgYWFwdDIgbGluayIKIiRCVC9hYXB0MiIgbGluayAtbyBvdXQvYXBrL2Jhc2UuYXBrIC1JICIkUExBVCIgXAogIC0tbWFuaWZlc3QgYXBwL0FuZHJvaWRNYW5pZmVzdC54bWwgXAogIC1SIG91dC9yZXMuemlwIFwKICAtLWphdmEgb3V0L2dlbiBcCiAgLS1taW4tc2RrLXZlcnNpb24gMjEgLS10YXJnZXQtc2RrLXZlcnNpb24gIiRBUEkiIFwKICAtLXZlcnNpb24tY29kZSAxIC0tdmVyc2lvbi1uYW1lIDEuMCBcCiAgLS1hdXRvLWFkZC1vdmVybGF5CgplY2hvICLihpIgamF2YWMiCmZpbmQgYXBwL3NyYyAtbmFtZSAnKi5qYXZhJyA+IG91dC9zcmNzLnR4dApmaW5kIG91dC9nZW4gIC1uYW1lICdSLmphdmEnID4+IG91dC9zcmNzLnR4dAplY2hvICIgIOa6kOaWh+S7tiAkKHdjIC1sIDwgb3V0L3NyY3MudHh0KSDkuKoiCmphdmFjIC1ub3dhcm4gLWVuY29kaW5nIFVURi04IC1zb3VyY2UgMS44IC10YXJnZXQgMS44IFwKICAtYm9vdGNsYXNzcGF0aCAiJFBMQVQiIC1kIG91dC9vYmogQG91dC9zcmNzLnR4dAoKZWNobyAi4oaSIGQ4IgpmaW5kIG91dC9vYmogLW5hbWUgJyouY2xhc3MnID4gb3V0L2NsYXNzZXMudHh0CiMgc2hlbGxjaGVjayBkaXNhYmxlPVNDMjA0NgoiJEJUL2Q4IiAtLWxpYiAiJFBMQVQiIC0tbWluLWFwaSAyMSAtLW91dHB1dCBvdXQvYXBrL2RleC56aXAgJChjYXQgb3V0L2NsYXNzZXMudHh0KQoKZWNobyAi4oaSIOWQiOWFpSBjbGFzc2VzLmRleCIKKCBjZCBvdXQvYXBrICYmIHVuemlwIC1vIC1xIGRleC56aXAgY2xhc3Nlcy5kZXggJiYgemlwIC1xIGJhc2UuYXBrIGNsYXNzZXMuZGV4ICkKCmVjaG8gIuKGkiB6aXBhbGlnbiIKIiRCVC96aXBhbGlnbiIgLWYgNCBvdXQvYXBrL2Jhc2UuYXBrIG91dC9hcGsvYWxpZ25lZC5hcGsKCmVjaG8gIuKGkiDnrb7lkI0iCmtleXRvb2wgLWdlbmtleXBhaXIgLWtleXN0b3JlIG91dC9kZWJ1Zy5rZXlzdG9yZSAtYWxpYXMgZHNoIFwKICAta2V5YWxnIFJTQSAta2V5c2l6ZSAyMDQ4IC12YWxpZGl0eSAxMDAwMCBcCiAgLXN0b3JlcGFzcyBhbmRyb2lkIC1rZXlwYXNzIGFuZHJvaWQgXAogIC1kbmFtZSAiQ049RFNILE9VPURTSCxPPURTSCxDPVVTIiA+L2Rldi9udWxsIDI+JjEKIiRCVC9hcGtzaWduZXIiIHNpZ24gLS1rcyBvdXQvZGVidWcua2V5c3RvcmUgXAogIC0ta3MtcGFzcyBwYXNzOmFuZHJvaWQgLS1rZXktcGFzcyBwYXNzOmFuZHJvaWQgXAogIC0tb3V0ICJvdXQvJFBLRyIgb3V0L2Fway9hbGlnbmVkLmFwawoiJEJUL2Fwa3NpZ25lciIgdmVyaWZ5IC0tcHJpbnQtY2VydHMgIm91dC8kUEtHIgpscyAtbCAib3V0LyRQS0ciCmVjaG8gIuWujOaIkO+8mm91dC8kUEtHIgo=
+#!/usr/bin/env bash
+# 手写 Android 构建：aapt2 + javac + d8 + zipalign + apksigner（不用 Gradle）
+set -euo pipefail
+
+API="${API_LEVEL:-34}"
+BT_VER="${BUILD_TOOLS:-34.0.0}"
+HOME_SDK="${ANDROID_HOME:-${ANDROID_SDK_ROOT:-}}"
+PKG="CFMobile-debug.apk"
+
+if [ -z "$HOME_SDK" ]; then echo "ANDROID_HOME 未设置"; exit 1; fi
+BT="$HOME_SDK/build-tools/$BT_VER"
+PLAT="$HOME_SDK/platforms/android-$API/android.jar"
+
+if [ ! -x "$BT/aapt2" ]; then
+  echo "找不到 aapt2：$BT/aapt2"; echo "可用 build-tools：$(ls "$HOME_SDK/build-tools" 2>/dev/null)"
+  BT=$(ls -1 "$HOME_SDK/build-tools" | tail -1); BT="$HOME_SDK/build-tools/$BT"
+  echo "改用：$BT"
+fi
+[ -f "$PLAT" ] || { echo "找不到 $PLAT"; exit 1; }
+
+rm -rf out
+mkdir -p out/gen out/obj out/apk
+
+echo "→ aapt2 compile"
+"$BT/aapt2" compile --dir app/res -o out/res.zip
+
+echo "→ aapt2 link"
+"$BT/aapt2" link -o out/apk/base.apk -I "$PLAT" \
+  --manifest app/AndroidManifest.xml \
+  -R out/res.zip \
+  --java out/gen \
+  --min-sdk-version 21 --target-sdk-version "$API" \
+  --version-code 1 --version-name 1.0 \
+  --auto-add-overlay
+
+echo "→ javac"
+find app/src -name '*.java' > out/srcs.txt
+find out/gen  -name 'R.java' >> out/srcs.txt
+echo "  源文件 $(wc -l < out/srcs.txt) 个"
+javac -nowarn -encoding UTF-8 -source 1.8 -target 1.8 \
+  -bootclasspath "$PLAT" -d out/obj @out/srcs.txt
+
+echo "→ d8"
+find out/obj -name '*.class' > out/classes.txt
+# shellcheck disable=SC2046
+"$BT/d8" --lib "$PLAT" --min-api 21 --output out/apk/dex.zip $(cat out/classes.txt)
+
+echo "→ 合入 classes.dex"
+( cd out/apk && unzip -o -q dex.zip classes.dex && zip -q base.apk classes.dex )
+
+echo "→ zipalign"
+"$BT/zipalign" -f 4 out/apk/base.apk out/apk/aligned.apk
+
+echo "→ 签名"
+keytool -genkeypair -keystore out/debug.keystore -alias dsh \
+  -keyalg RSA -keysize 2048 -validity 10000 \
+  -storepass android -keypass android \
+  -dname "CN=DSH,OU=DSH,O=DSH,C=US" >/dev/null 2>&1
+"$BT/apksigner" sign --ks out/debug.keystore \
+  --ks-pass pass:android --key-pass pass:android \
+  --out "out/$PKG" out/apk/aligned.apk
+"$BT/apksigner" verify --print-certs "out/$PKG"
+ls -l "out/$PKG"
+echo "完成：out/$PKG"

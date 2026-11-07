@@ -1,1 +1,164 @@
-cGFja2FnZSBjb20uZHNoLmNmOwoKaW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0OwppbXBvcnQgYW5kcm9pZC5tZWRpYS5BdWRpb0F0dHJpYnV0ZXM7CmltcG9ydCBhbmRyb2lkLm1lZGlhLlNvdW5kUG9vbDsKCmltcG9ydCBqYXZhLnV0aWwuUmFuZG9tOwoKLyoqCiAqIOmfs+aViOWFqOmDqOWcqOWGheWtmOmHjOWQiOaIkO+8iDIyLjA1a0h6IC8g5Y2V5aOw6YGTIC8gMTZiaXTvvInvvIxhcGsg6YeM5LiA5Liq6Z+z6aKR5paH5Lu26YO95LiN5pS+44CCCiAqIFNvdW5kUG9vbCDoo4Xovb3lpLHotKXlsLHmlbTkvZPpnZnpn7PvvIzmuLjmiI/nhafot5HjgIIKICovCnB1YmxpYyBmaW5hbCBjbGFzcyBDRkF1ZGlvIHsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBBSyA9IDAsIEFXTSA9IDEsIFBJU1RPTCA9IDIsIEhJVCA9IDMsIERJRSA9IDQsIFBMQU5UID0gNSwKICAgICAgICAgICAgREVGVVNFID0gNiwgV0lOID0gNywgTE9TRSA9IDgsIEtOSUZFID0gOSwgUkVMT0FEID0gMTAsIFBJQ0sgPSAxMTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBOID0gMTI7CgogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IFNSID0gMjIwNTA7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBmbG9hdCBQSSA9IDMuMTQxNTkyNjVmOwoKICAgIHByaXZhdGUgU291bmRQb29sIHNwOwogICAgcHJpdmF0ZSBmaW5hbCBpbnRbXSBpZCA9IG5ldyBpbnRbTl07CgogICAgQFN1cHByZXNzV2FybmluZ3MoImRlcHJlY2F0aW9uIikKICAgIHB1YmxpYyB2b2lkIGluaXQoQ29udGV4dCBjKSB7CiAgICAgICAgaWYgKHNwICE9IG51bGwpIHJldHVybjsKICAgICAgICB0cnkgewogICAgICAgICAgICBBdWRpb0F0dHJpYnV0ZXMgYWEgPSBuZXcgQXVkaW9BdHRyaWJ1dGVzLkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC5zZXRVc2FnZShBdWRpb0F0dHJpYnV0ZXMuVVNBR0VfTUVESUEpCiAgICAgICAgICAgICAgICAgICAgLnNldENvbnRlbnRUeXBlKEF1ZGlvQXR0cmlidXRlcy5DT05URU5UX1RZUEVfU09OSUZJQ0FUSU9OKQogICAgICAgICAgICAgICAgICAgIC5idWlsZCgpOwogICAgICAgICAgICBzcCA9IG5ldyBTb3VuZFBvb2wuQnVpbGRlcigpLnNldE1heFN0cmVhbXMoOCkuc2V0QXVkaW9BdHRyaWJ1dGVzKGFhKS5idWlsZCgpOwogICAgICAgICAgICBzaG9ydFtdW10gcmF3ID0ge2d1bigxMjAsIDFMLCAwLjQyZiwgNDZmLCA5MDBmLCAzMDBmLCAwLjE4ZiwgdHJ1ZSksICAgICAgLy8gQUsKICAgICAgICAgICAgICAgICAgICBndW4oMzAwLCA3TCwgMC4xNmYsIDExZiwgMTcwZiwgNzBmLCAwLjQyZiwgdHJ1ZSksICAgICAgICAgICAgICAgIC8vIEFXTQogICAgICAgICAgICAgICAgICAgIGd1big5NSwgM0wsIDAuNTBmLCA1NWYsIDEyMDBmLCA0MjBmLCAwLjE1ZiwgdHJ1ZSksICAgICAgICAgICAgICAgLy8g5rKZ6bmwCiAgICAgICAgICAgICAgICAgICAgZ3VuKDkwLCAxMUwsIDAuMTJmLCAyNmYsIDEzMGYsIDgwZiwgMC43NWYsIGZhbHNlKSwgICAgICAgICAgICAgICAvLyDooqvmiZPkuK0KICAgICAgICAgICAgICAgICAgICBndW4oNDIwLCAxM0wsIDAuMTZmLCA2ZiwgMzAwZiwgOTBmLCAwLjYyZiwgZmFsc2UpLCAgICAgICAgICAgICAgIC8vIOmYteS6oQogICAgICAgICAgICAgICAgICAgIHNlcShuZXcgaW50W117NjYwLCA5OTB9LCBuZXcgaW50W117MCwgOTB9LCBuZXcgaW50W117NzAsIDExMH0pLCAgIC8vIOWfi+WMhQogICAgICAgICAgICAgICAgICAgIHNlcShuZXcgaW50W117MTMyMCwgODgwLCAxMzIwfSwgbmV3IGludFtdezAsIDEwMCwgMjEwfSwgbmV3IGludFtdezgwLCA4MCwgMTYwfSksIC8vIOaLhuWMhQogICAgICAgICAgICAgICAgICAgIHNlcShuZXcgaW50W117NTIzLCA2NTksIDc4NCwgMTA0Nn0sIG5ldyBpbnRbXXswLCAxMzAsIDI2MCwgNDAwfSwgbmV3IGludFtdezEyMCwgMTIwLCAxMjAsIDM0MH0pLCAvLyDog5zliKkKICAgICAgICAgICAgICAgICAgICBzZXEobmV3IGludFtdezM5MiwgMzMwLCAyNjJ9LCBuZXcgaW50W117MCwgMTUwLCAzMTB9LCBuZXcgaW50W117MTQwLCAxNDAsIDM4MH0pLCAvLyDlpLHotKUKICAgICAgICAgICAgICAgICAgICBndW4oNzAsIDE3TCwgMC44NWYsIDMyZiwgMjYwMGYsIDE0MDBmLCAwLjEwZiwgZmFsc2UpLCAgICAgICAgICAgIC8vIOWIuuWIgAogICAgICAgICAgICAgICAgICAgIGd1big2MCwgMTlMLCAwLjkwZiwgNzBmLCAyMDAwZiwgMTIwMGYsIDAuMTBmLCB0cnVlKSwgICAgICAgICAgICAgLy8g5o2i5by5CiAgICAgICAgICAgICAgICAgICAgc2VxKG5ldyBpbnRbXXsxNTY4LCAyMDkzfSwgbmV3IGludFtdezAsIDYwfSwgbmV3IGludFtdezYwLCAxMjB9KX07ICAgLy8g5o2h5Lic6KW/CiAgICAgICAgICAgIC8vIFNvdW5kUG9vbCDlj6rorqTmlofku7YvVVJJ77ya5YWI5oqK5ZCI5oiQ5aW955qEIFdBViDokL3liLDnvJPlrZjnm67lvZXlho3oo4Xovb0KICAgICAgICAgICAgamF2YS5pby5GaWxlIGRpciA9IGMuZ2V0Q2FjaGVEaXIoKTsKICAgICAgICAgICAgU3RyaW5nW10gbm0gPSB7ImFrIiwgImF3bSIsICJwaXN0b2wiLCAiaGl0IiwgImRpZSIsICJwbGFudCIsICJkZWZ1c2UiLAogICAgICAgICAgICAgICAgICAgICJ3aW4iLCAibG9zZSIsICJrbmlmZSIsICJyZWxvYWQiLCAicGljayJ9OwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IE4gJiYgaSA8IHJhdy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgamF2YS5pby5GaWxlIGYgPSBuZXcgamF2YS5pby5GaWxlKGRpciwgImNmc2Z4XyIgKyBubVtpXSArICIud2F2Iik7CiAgICAgICAgICAgICAgICBqYXZhLmlvLkZpbGVPdXRwdXRTdHJlYW0gZm8gPSBuZXcgamF2YS5pby5GaWxlT3V0cHV0U3RyZWFtKGYpOwogICAgICAgICAgICAgICAgZm8ud3JpdGUod2F2KHJhd1tpXSkpOwogICAgICAgICAgICAgICAgZm8uZmx1c2goKTsKICAgICAgICAgICAgICAgIGZvLmNsb3NlKCk7CiAgICAgICAgICAgICAgICBpZFtpXSA9IHNwLmxvYWQoZi5nZXRBYnNvbHV0ZVBhdGgoKSwgMSk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChUaHJvd2FibGUgdCkgewogICAgICAgICAgICBzcCA9IG51bGw7CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyB2b2lkIHBsYXkoaW50IHdoaWNoLCBmbG9hdCB2b2wpIHsKICAgICAgICBpZiAoc3AgPT0gbnVsbCB8fCB3aGljaCA8IDAgfHwgd2hpY2ggPj0gTiB8fCBpZFt3aGljaF0gPT0gMCkgcmV0dXJuOwogICAgICAgIGlmICh2b2wgPiAxZikgdm9sID0gMWY7CiAgICAgICAgaWYgKHZvbCA8IDAuMDZmKSByZXR1cm47CiAgICAgICAgdHJ5IHsgc3AucGxheShpZFt3aGljaF0sIHZvbCwgdm9sLCA1LCAwLCAxZik7IH0gY2F0Y2ggKFRocm93YWJsZSBpZ25vcmVkKSB7IH0KICAgIH0KCiAgICBwdWJsaWMgdm9pZCByZWxlYXNlKCkgewogICAgICAgIGlmIChzcCAhPSBudWxsKSB7IHRyeSB7IHNwLnJlbGVhc2UoKTsgfSBjYXRjaCAoVGhyb3dhYmxlIGlnbm9yZWQpIHsgfSBzcCA9IG51bGw7IH0KICAgIH0KCiAgICAvKiAtLS0tLS0tLS0tLS0tLS0tIOWQiOaIkCAtLS0tLS0tLS0tLS0tLS0tICovCgogICAgLyoqIOWZquWjsCArIOS4i+a7keato+W8pueahOa3t+WQiOWGsuWHu+WjsO+8muaequWjsOOAgemXt+WTjeOAgeegtOeJh+OAgiAqLwogICAgc3RhdGljIHNob3J0W10gZ3VuKGludCBtcywgbG9uZyBzZWVkLCBmbG9hdCBscEssIGZsb2F0IGRlY2F5LCBmbG9hdCBmMCwgZmxvYXQgZjEsCiAgICAgICAgICAgICAgICAgICAgICAgZmxvYXQgdG9uZUFtdCwgYm9vbGVhbiBjbGljaykgewogICAgICAgIGludCBuID0gU1IgKiBtcyAvIDEwMDA7CiAgICAgICAgc2hvcnRbXSBzID0gbmV3IHNob3J0W25dOwogICAgICAgIFJhbmRvbSByID0gbmV3IFJhbmRvbShzZWVkKTsKICAgICAgICBmbG9hdCBscHYgPSAwZiwgcGggPSAwZjsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG47IGkrKykgewogICAgICAgICAgICBmbG9hdCB0ID0gaSAvIChmbG9hdCkgU1I7CiAgICAgICAgICAgIGZsb2F0IGUgPSAoZmxvYXQpIE1hdGguZXhwKC10ICogZGVjYXkpOwogICAgICAgICAgICBmbG9hdCBueiA9IHIubmV4dEZsb2F0KCkgKiAyZiAtIDFmOwogICAgICAgICAgICBscHYgKz0gKG56IC0gbHB2KSAqIGxwSzsKICAgICAgICAgICAgZmxvYXQgZiA9IGYwICsgKGYxIC0gZjApICogTWF0aC5taW4oMWYsIHQgKiA2Zik7CiAgICAgICAgICAgIHBoICs9IDJmICogUEkgKiBmIC8gU1I7CiAgICAgICAgICAgIGZsb2F0IHcgPSBscHYgKiAoMWYgLSB0b25lQW10KSArIChmbG9hdCkgTWF0aC5zaW4ocGgpICogdG9uZUFtdDsKICAgICAgICAgICAgaWYgKGNsaWNrICYmIChpICUgMTcgPT0gMCkpIHcgKz0gKHIubmV4dEZsb2F0KCkgLSAwLjVmKSAqIDAuMzVmICogKGZsb2F0KSBNYXRoLmV4cCgtdCAqIDkwZik7CiAgICAgICAgICAgIGludCB2ID0gKGludCkgKHcgKiBlICogMjQwMDBmKTsKICAgICAgICAgICAgaWYgKHYgPiAzMjc2NykgdiA9IDMyNzY3OwogICAgICAgICAgICBpZiAodiA8IC0zMjc2OCkgdiA9IC0zMjc2ODsKICAgICAgICAgICAgc1tpXSA9IChzaG9ydCkgdjsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHM7CiAgICB9CgogICAgLyoqIOaWueazouWwj+mfs+espuW6j+WIl++8muWfi+WMhS/mi4bljIUv6IOc6LSf5o+Q56S644CCICovCiAgICBzdGF0aWMgc2hvcnRbXSBzZXEoaW50W10gZiwgaW50W10gYXQsIGludFtdIGxlbikgewogICAgICAgIGludCB0b3RhbCA9IDA7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBmLmxlbmd0aDsgaSsrKSB0b3RhbCA9IE1hdGgubWF4KHRvdGFsLCBhdFtpXSArIGxlbltpXSk7CiAgICAgICAgaW50IG4gPSBTUiAqIHRvdGFsIC8gMTAwMDsKICAgICAgICBzaG9ydFtdIHMgPSBuZXcgc2hvcnRbbl07CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBmLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIGludCBhID0gU1IgKiBhdFtpXSAvIDEwMDA7CiAgICAgICAgICAgIGludCBiID0gTWF0aC5taW4obiwgU1IgKiAoYXRbaV0gKyBsZW5baV0pIC8gMTAwMCk7CiAgICAgICAgICAgIGZsb2F0IHBoID0gMGY7CiAgICAgICAgICAgIGZvciAoaW50IGsgPSBhOyBrIDwgYjsgaysrKSB7CiAgICAgICAgICAgICAgICBmbG9hdCB0ID0gKGsgLSBhKSAvIChmbG9hdCkgU1I7CiAgICAgICAgICAgICAgICBmbG9hdCBlID0gTWF0aC5taW4oMWYsIE1hdGgubWluKHQgKiA3MGYsIChiIC0gaykgLyAoZmxvYXQpIFNSICogMjJmKSk7CiAgICAgICAgICAgICAgICBpZiAoZSA8IDBmKSBlID0gMGY7CiAgICAgICAgICAgICAgICBwaCArPSAyZiAqIFBJICogZltpXSAvIFNSOwogICAgICAgICAgICAgICAgaW50IHYgPSBzW2tdICsgKGludCkgKE1hdGguc2luKHBoKSAqIGUgKiAxNjAwMGYpOwogICAgICAgICAgICAgICAgaWYgKHYgPiAzMjc2NykgdiA9IDMyNzY3OwogICAgICAgICAgICAgICAgaWYgKHYgPCAtMzI3NjgpIHYgPSAtMzI3Njg7CiAgICAgICAgICAgICAgICBzW2tdID0gKHNob3J0KSB2OwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBzOwogICAgfQoKICAgIC8qIC0tLS0tLS0tLS0tLS0tLS0gV0FWIOWwgeijhSAtLS0tLS0tLS0tLS0tLS0tICovCgogICAgc3RhdGljIGJ5dGVbXSB3YXYoc2hvcnRbXSBzKSB7CiAgICAgICAgaW50IG4gPSBzLmxlbmd0aCAqIDI7CiAgICAgICAgYnl0ZVtdIG8gPSBuZXcgYnl0ZVs0NCArIG5dOwogICAgICAgIHN0cihvLCAwLCAiUklGRiIpOwogICAgICAgIHUzMihvLCA0LCAzNiArIG4pOwogICAgICAgIHN0cihvLCA4LCAiV0FWRSIpOwogICAgICAgIHN0cihvLCAxMiwgImZtdCAiKTsKICAgICAgICB1MzIobywgMTYsIDE2KTsKICAgICAgICB1MTYobywgMjAsIDEpOyAgICAgICAgICAgIC8vIFBDTQogICAgICAgIHUxNihvLCAyMiwgMSk7ICAgICAgICAgICAgLy8g5Y2V5aOw6YGTCiAgICAgICAgdTMyKG8sIDI0LCBTUik7CiAgICAgICAgdTMyKG8sIDI4LCBTUiAqIDIpOwogICAgICAgIHUxNihvLCAzMiwgMik7CiAgICAgICAgdTE2KG8sIDM0LCAxNik7CiAgICAgICAgc3RyKG8sIDM2LCAiZGF0YSIpOwogICAgICAgIHUzMihvLCA0MCwgbik7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIG9bNDQgKyBpICogMl0gPSAoYnl0ZSkgKHNbaV0gJiAweEZGKTsKICAgICAgICAgICAgb1s0NSArIGkgKiAyXSA9IChieXRlKSAoKHNbaV0gPj4gOCkgJiAweEZGKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG87CiAgICB9CgogICAgc3RhdGljIHZvaWQgc3RyKGJ5dGVbXSBiLCBpbnQgcCwgU3RyaW5nIHMpIHsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHMubGVuZ3RoKCk7IGkrKykgYltwICsgaV0gPSAoYnl0ZSkgcy5jaGFyQXQoaSk7CiAgICB9CgogICAgc3RhdGljIHZvaWQgdTMyKGJ5dGVbXSBiLCBpbnQgcCwgaW50IHYpIHsKICAgICAgICBiW3BdID0gKGJ5dGUpICh2ICYgMHhGRik7CiAgICAgICAgYltwICsgMV0gPSAoYnl0ZSkgKCh2ID4+IDgpICYgMHhGRik7CiAgICAgICAgYltwICsgMl0gPSAoYnl0ZSkgKCh2ID4+IDE2KSAmIDB4RkYpOwogICAgICAgIGJbcCArIDNdID0gKGJ5dGUpICgodiA+PiAyNCkgJiAweEZGKTsKICAgIH0KCiAgICBzdGF0aWMgdm9pZCB1MTYoYnl0ZVtdIGIsIGludCBwLCBpbnQgdikgewogICAgICAgIGJbcF0gPSAoYnl0ZSkgKHYgJiAweEZGKTsKICAgICAgICBiW3AgKyAxXSA9IChieXRlKSAoKHYgPj4gOCkgJiAweEZGKTsKICAgIH0KfQo=
+package com.dsh.cf;
+
+import android.content.Context;
+import android.media.AudioAttributes;
+import android.media.SoundPool;
+
+import java.util.Random;
+
+/**
+ * 音效全部在内存里合成（22.05kHz / 单声道 / 16bit），apk 里一个音频文件都不放。
+ * SoundPool 装载失败就整体静音，游戏照跑。
+ */
+public final class CFAudio {
+
+    public static final int AK = 0, AWM = 1, PISTOL = 2, HIT = 3, DIE = 4, PLANT = 5,
+            DEFUSE = 6, WIN = 7, LOSE = 8, KNIFE = 9, RELOAD = 10, PICK = 11;
+    private static final int N = 12;
+
+    private static final int SR = 22050;
+    private static final float PI = 3.14159265f;
+
+    private SoundPool sp;
+    private final int[] id = new int[N];
+
+    @SuppressWarnings("deprecation")
+    public void init(Context c) {
+        if (sp != null) return;
+        try {
+            AudioAttributes aa = new AudioAttributes.Builder()
+                    .setUsage(AudioAttributes.USAGE_MEDIA)
+                    .setContentType(AudioAttributes.CONTENT_TYPE_SONIFICATION)
+                    .build();
+            sp = new SoundPool.Builder().setMaxStreams(8).setAudioAttributes(aa).build();
+            short[][] raw = {gun(120, 1L, 0.42f, 46f, 900f, 300f, 0.18f, true),      // AK
+                    gun(300, 7L, 0.16f, 11f, 170f, 70f, 0.42f, true),                // AWM
+                    gun(95, 3L, 0.50f, 55f, 1200f, 420f, 0.15f, true),               // 沙鹰
+                    gun(90, 11L, 0.12f, 26f, 130f, 80f, 0.75f, false),               // 被打中
+                    gun(420, 13L, 0.16f, 6f, 300f, 90f, 0.62f, false),               // 阵亡
+                    seq(new int[]{660, 990}, new int[]{0, 90}, new int[]{70, 110}),   // 埋包
+                    seq(new int[]{1320, 880, 1320}, new int[]{0, 100, 210}, new int[]{80, 80, 160}), // 拆包
+                    seq(new int[]{523, 659, 784, 1046}, new int[]{0, 130, 260, 400}, new int[]{120, 120, 120, 340}), // 胜利
+                    seq(new int[]{392, 330, 262}, new int[]{0, 150, 310}, new int[]{140, 140, 380}), // 失败
+                    gun(70, 17L, 0.85f, 32f, 2600f, 1400f, 0.10f, false),            // 刺刀
+                    gun(60, 19L, 0.90f, 70f, 2000f, 1200f, 0.10f, true),             // 换弹
+                    seq(new int[]{1568, 2093}, new int[]{0, 60}, new int[]{60, 120})};   // 捡东西
+            // SoundPool 只认文件/URI：先把合成好的 WAV 落到缓存目录再装载
+            java.io.File dir = c.getCacheDir();
+            String[] nm = {"ak", "awm", "pistol", "hit", "die", "plant", "defuse",
+                    "win", "lose", "knife", "reload", "pick"};
+            for (int i = 0; i < N && i < raw.length; i++) {
+                java.io.File f = new java.io.File(dir, "cfsfx_" + nm[i] + ".wav");
+                java.io.FileOutputStream fo = new java.io.FileOutputStream(f);
+                fo.write(wav(raw[i]));
+                fo.flush();
+                fo.close();
+                id[i] = sp.load(f.getAbsolutePath(), 1);
+            }
+        } catch (Throwable t) {
+            sp = null;
+        }
+    }
+
+    public void play(int which, float vol) {
+        if (sp == null || which < 0 || which >= N || id[which] == 0) return;
+        if (vol > 1f) vol = 1f;
+        if (vol < 0.06f) return;
+        try { sp.play(id[which], vol, vol, 5, 0, 1f); } catch (Throwable ignored) { }
+    }
+
+    public void release() {
+        if (sp != null) { try { sp.release(); } catch (Throwable ignored) { } sp = null; }
+    }
+
+    /* ---------------- 合成 ---------------- */
+
+    /** 噪声 + 下滑正弦的混合冲击声：枪声、闷响、破片。 */
+    static short[] gun(int ms, long seed, float lpK, float decay, float f0, float f1,
+                       float toneAmt, boolean click) {
+        int n = SR * ms / 1000;
+        short[] s = new short[n];
+        Random r = new Random(seed);
+        float lpv = 0f, ph = 0f;
+        for (int i = 0; i < n; i++) {
+            float t = i / (float) SR;
+            float e = (float) Math.exp(-t * decay);
+            float nz = r.nextFloat() * 2f - 1f;
+            lpv += (nz - lpv) * lpK;
+            float f = f0 + (f1 - f0) * Math.min(1f, t * 6f);
+            ph += 2f * PI * f / SR;
+            float w = lpv * (1f - toneAmt) + (float) Math.sin(ph) * toneAmt;
+            if (click && (i % 17 == 0)) w += (r.nextFloat() - 0.5f) * 0.35f * (float) Math.exp(-t * 90f);
+            int v = (int) (w * e * 24000f);
+            if (v > 32767) v = 32767;
+            if (v < -32768) v = -32768;
+            s[i] = (short) v;
+        }
+        return s;
+    }
+
+    /** 方波小音符序列：埋包/拆包/胜负提示。 */
+    static short[] seq(int[] f, int[] at, int[] len) {
+        int total = 0;
+        for (int i = 0; i < f.length; i++) total = Math.max(total, at[i] + len[i]);
+        int n = SR * total / 1000;
+        short[] s = new short[n];
+        for (int i = 0; i < f.length; i++) {
+            int a = SR * at[i] / 1000;
+            int b = Math.min(n, SR * (at[i] + len[i]) / 1000);
+            float ph = 0f;
+            for (int k = a; k < b; k++) {
+                float t = (k - a) / (float) SR;
+                float e = Math.min(1f, Math.min(t * 70f, (b - k) / (float) SR * 22f));
+                if (e < 0f) e = 0f;
+                ph += 2f * PI * f[i] / SR;
+                int v = s[k] + (int) (Math.sin(ph) * e * 16000f);
+                if (v > 32767) v = 32767;
+                if (v < -32768) v = -32768;
+                s[k] = (short) v;
+            }
+        }
+        return s;
+    }
+
+    /* ---------------- WAV 封装 ---------------- */
+
+    static byte[] wav(short[] s) {
+        int n = s.length * 2;
+        byte[] o = new byte[44 + n];
+        str(o, 0, "RIFF");
+        u32(o, 4, 36 + n);
+        str(o, 8, "WAVE");
+        str(o, 12, "fmt ");
+        u32(o, 16, 16);
+        u16(o, 20, 1);            // PCM
+        u16(o, 22, 1);            // 单声道
+        u32(o, 24, SR);
+        u32(o, 28, SR * 2);
+        u16(o, 32, 2);
+        u16(o, 34, 16);
+        str(o, 36, "data");
+        u32(o, 40, n);
+        for (int i = 0; i < s.length; i++) {
+            o[44 + i * 2] = (byte) (s[i] & 0xFF);
+            o[45 + i * 2] = (byte) ((s[i] >> 8) & 0xFF);
+        }
+        return o;
+    }
+
+    static void str(byte[] b, int p, String s) {
+        for (int i = 0; i < s.length(); i++) b[p + i] = (byte) s.charAt(i);
+    }
+
+    static void u32(byte[] b, int p, int v) {
+        b[p] = (byte) (v & 0xFF);
+        b[p + 1] = (byte) ((v >> 8) & 0xFF);
+        b[p + 2] = (byte) ((v >> 16) & 0xFF);
+        b[p + 3] = (byte) ((v >> 24) & 0xFF);
+    }
+
+    static void u16(byte[] b, int p, int v) {
+        b[p] = (byte) (v & 0xFF);
+        b[p + 1] = (byte) ((v >> 8) & 0xFF);
+    }
+}
